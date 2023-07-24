@@ -1,0 +1,16 @@
+---
+title: Integrate Adobe Journey Optimizer with Adobe Experience Manager Assets Essentials
+description: Learn how to integrate Adobe Journey Optimizer with Adobe Experience Manager Assets Essentials.
+solution: Journey Optimizer, Experience Manager
+feature: Integrations
+topic: Integrations
+role: Leader, Architect, Admin, Developer
+level: Beginner
+kt:
+thumbnail:
+last-substantial-update: 2023-06-26
+---
+
+# Integrate Journey Optimizer with Adobe Experience Manager Assets Essentials
+
+{{$include /help/_includes/integrations-between-applications/experience-manager-journey-optimizer.md}}
