@@ -1,14 +1,16 @@
 ---
-title: Set up self-serve downloads on Creative Cloud Desktop
-description: Create a tutorial to guide users who want to set up self-serve downloads on Creative Cloud Desktop.
+title: Integrate Workfront with Creative Cloud
+description: Learn how to integrate Workfront with Creative Cloud apps.
+solution: Workfront, Creative Cloud
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
-level: Intermediate
-doc-type: Feature Video
-last-substantial-update: 2023-06-27
-jira: KT-13072
-thumbnail: KT-13072.jpeg
+level: Beginner
+kt:
+thumbnail:
+badgeIntegration: label="Integration" type="positive"
+last-substantial-update: 2023-07-25
+index: false
 ---
 
 # Integrate Workfront with Creative Cloud
