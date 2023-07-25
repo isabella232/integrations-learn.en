@@ -26,7 +26,6 @@ mini-toc-levels: 1
     + [[!DNL Commerce]](./integrations-between-applications/analytics/analytics-commerce.md)
     + [[!DNL Customer Journey Analytics]](./integrations-between-applications/analytics/analytics-customer-journey-analytics.md)
     + [[!DNL Experience Manager]](./integrations-between-applications/analytics/analytics-experience-manager.md)
-    + [Experience Platform](./integrations-between-applications/analytics/analytics-experience-platform.md)
     + [[!DNL Real-Time CDP]](./integrations-between-applications/rtcdp/rtcdp-analytics.md)
     + [[!DNL Target]](./integrations-between-applications/analytics/analytics-target.md)
   + [!DNL Audience Manager]{#aam}
@@ -51,7 +50,6 @@ mini-toc-levels: 1
     + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
     + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
     + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
-    + [[!DNL Experience Platform]](./integrations-between-applications/experience-manager/experience-manager-platform.md)
     + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
     + [[!DNL Marketo]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
     + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
@@ -88,3 +86,5 @@ mini-toc-levels: 1
     + [Campaign v8 and Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
   + Real-Team CDP{#rtcdp-target}
     + [Real-Time CDP and Target](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
+    + [Real-Time CDP and Target](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
+    + [Real-Time CDP and Target](./tutorials/rtcdp-target/atjs-and-target-destination.md)
