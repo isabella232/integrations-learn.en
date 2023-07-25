@@ -37,6 +37,6 @@ Integrating applications with _multiple Platform-native applications_ share many
 
 * [with Analytics](../rtcdp/rtcdp-analytics.md)
 * [with Audience Manager](../rtcdp/rtcdp-aam.md)
-* [with Campaign v8](../rtcdp/rtcdp-campaign-v8.md)
+* [with Campaign v8](../rtcdp/rtcdp-campaign.md)
 * [with Customer Journey Analytics](../rtcdp/rtcdp-cja.md)
 * [with Target](../rtcdp/rtcdp-target.md)
