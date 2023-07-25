@@ -54,8 +54,7 @@ Integrating AEM and Adobe Commerce using Commerce Integration Framework (CIF) pr
             </td>
             <td>
                 <ul>
-                    <li>Create multiple storefronts across geographies.</li>
-                    <li>Create multiple storefronts across languages.</li>
+                    <li>Create multiple storefronts across geographies or languages.</li>
                 </ul>
             </td>
         </tr>
@@ -63,7 +62,7 @@ Integrating AEM and Adobe Commerce using Commerce Integration Framework (CIF) pr
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html" target="_blank" rel="noreferrer">AEM Sites as Cloud Service and Commerce</a></td>
             <td>Commerce Integration Framework (CIF) add-on</td>
             <td>
-                <ul><li>When you need multiple web stores across many systems.</li></ul>
+                <ul><li>When you need multiple storefronts across many systems, including AEM.</li></ul>
             </td>
             <td>
                 <ul><li>Create multiple storefronts across brands.</li></ul>

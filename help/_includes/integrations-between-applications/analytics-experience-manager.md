@@ -48,9 +48,9 @@ Integrating Adobe Analytics and Adobe Experience Manager provides several benefi
             <td>Adobe Analytics tags extension or AppMeasurement.js</td>
             <td>
                 <ul>
-                    <li>When you only need web analytics data in Adobe Analytics.</li>
+                    <li>When you want to report on AEM web analytics data in Adobe Analytics, and are not planning on using the data in other Experience Cloud applications</li>
                     <li>When you use AEM's Core Components for trackable web site elements.</li>
-                    <li>When you require minimal configuration and implementation.</li>
+                    <li>When you want minimal configuration and implementation.</li>
                 </ul>
             </td>
             <td>

@@ -30,11 +30,11 @@ Some benefits of using Adobe Experience Manager and Adobe Target together includ
     <tbody>
         <tr>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service and Target</a></td>
-            <td>Experience Platform Web SDK tags extension</td>
+            <td>Experience Platform Web SDK tags extension or alloy.js</td>
             <td>
               <ul>
-                <li>When you need to personalize AEM Headless experiences.</li>
-                <li>When you need content authors to manage personalized content.</li>
+                <li>When you want to personalize AEM Headless experiences.</li>
+                <li>When you want content authors to manage personalized content.</li>
               </ul>
             </td>
             <td>

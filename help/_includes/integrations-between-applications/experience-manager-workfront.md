@@ -33,7 +33,7 @@ AEM and Workfront streamline content production, allowing seamless import of man
             <td>
               <ul>
                 <li>When you require basic DAM functionalities and a simplified user interface for managing digital assets.</li>
-                <li>When your team is less experienced or only needs basic functionalities.</li>
+                <li>When your team is less experienced or only needs basic DAM capabilities.</li>
               </ul>
             </td>
             <td>
@@ -50,7 +50,7 @@ AEM and Workfront streamline content production, allowing seamless import of man
                 <ul>
                     <li>When your organization has already implemented AEM Assets.</li>
                     <li>When require advanced Workfront functionalities such as custom fields, statuses, and workflows.</li>
-                    <li>When you have experienced DAM users and require advanced functionalities.</li>
+                    <li>When you have experienced DAM users and require advanced DAM capabilities.</li>
                 </ul>
             </td>
             <td>

@@ -6,8 +6,10 @@ feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
+index: no
 kt:
 thumbnail:
+badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-26
 ---
 

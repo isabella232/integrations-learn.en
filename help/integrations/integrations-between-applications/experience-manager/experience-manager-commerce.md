@@ -6,11 +6,13 @@ feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
+index: no
 kt:
 thumbnail:
+badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-01
 ---
 
-# Integrate Experience Manager with Adobe Commerce
+# Integrate Experience Manager with Commerce
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-commerce.md}}

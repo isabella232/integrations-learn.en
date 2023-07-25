@@ -28,7 +28,7 @@ Integrating Adobe Journey Optimizer & Experience Manager Assets Essentials has s
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en" target="_blank" rel="noreferrer">Journey Optimizer and AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" target="_blank" rel="noreferrer">Journey Optimizer and AEM Assets Essentials</a></td>
             <td>Asset Essentials is embedded in Journey Optimizer</td>
             <td>
                 <ul>
@@ -36,7 +36,7 @@ Integrating Adobe Journey Optimizer & Experience Manager Assets Essentials has s
                 </ul>
             </td>
             <td>
-                <ul><li>Create content with the Email Designer.</li></ul>
+                <ul><li>Create content with Journey Optimizer's Email Designer.</li></ul>
             </td>
         </tr>        
     </tbody>          

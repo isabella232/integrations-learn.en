@@ -31,9 +31,7 @@ Integrating Acrobat Sign with Adobe Experience Manager (AEM) brings these benefi
             </td>
             <td>
                 <ul>
-                    <li>When you want to enhance user experience and efficiency in form processing.</li>
-                    <li>When you want to streamline document approval workflows with electronic signatures.</li>
-                    <li>When you want to ensure data accuracy and compliance with secure signatures.</li>
+                    <li>When you want to add secure electronic signatures to your digital forms.</li>
                 </ul>
             </td>
             <td>

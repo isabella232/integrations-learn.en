@@ -33,9 +33,9 @@ Integrating Experience Manager and Marketo provides several benefits, including:
             </td>
             <td>
                 <ul>
+                  <li>Convert potential customers into valuable leads.</li>                  
                   <li>Maximize business growth and sales potential.</li>
                   <li>Synchronize lead attributes.</li>
-                  <li>Convert potential customers into valuable leads</li>                  
                 </ul>
             </td>
         </tr>        

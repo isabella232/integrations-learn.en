@@ -45,7 +45,7 @@ The key benefits of integrating Adobe Campaign and AEM Experience Manager are:
             <td>Adobe IMS access tokens</td>
             <td>
                 <ul>
-                    <li>When you wan to send emails based on digital form submissions.</li>
+                    <li>When you want to automatically send emails based on digital form submissions.</li>
                 </ul>
             </td>
             <td>
