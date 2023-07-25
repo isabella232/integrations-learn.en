@@ -63,7 +63,7 @@ Integrating Adobe Analytics and Adobe Experience Manager provides several benefi
         </tr>
         <tr>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html" target="_blank" rel="noreferrer">Analytics and AEM Forms as Cloud Service</a></td>
-            <td>Experience Platform Web SDK tags extension or alloy.js</td>
+            <td>Experience Platform Web SDK tags extension</td>
             <td>
               <ul>
                 <li>When you want to report digital form analytics data in Adobe Analytics, and position yourself to integrate with other Experience Cloud applications in the future.</li>
