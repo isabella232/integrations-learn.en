@@ -1,6 +1,6 @@
 ---
-title: Integrate Real-Time CDP and Target with Web SDK and Target destination
-description: Learn how to integrate Real-Time CDP and Target with Web SDK and Target destination. 
+title: Integrate Real-Time CDP and Target with Mobile SDK and Target destination
+description: Learn how to integrate Real-Time CDP and Target with Mobile SDK and Target destination. 
 solution: Target, Real-time Customer Data Platform 
 feature: Integrations
 topic: Integrations
@@ -12,7 +12,11 @@ last-substantial-update: 2023-07-25
 badgeIntegration: label="Integration" type="positive"
 ---
 
-# Integrate Real-Time CDP and Target with Web SDK and Target destination
+# Integrate Real-Time CDP and Target with Mobile SDK and Target destination
+
+>[!IMPORTANT]
+>
+>When integrating with Mobile SDK, Target must be implemented using the Adobe Journey Optimizer - Decisioning extension.
 
 ## Next-hit personalization with Adobe Real-Time CDP and Adobe Target
 
@@ -33,13 +37,13 @@ Learn how to activate segments and profile attributes from Adobe Real-Time Custo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
 
-## Use Real-time CDP segments in Adobe Target
+## Use Real-Time CDP segments in Adobe Target
 
 Learn how to use Real-Time Customer Data Platform segments in Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
 
-## Use Real-time CDP profile attributes in Adobe Target
+## Use Real-Time CDP profile attributes in Adobe Target
 
 Learn how to use Adobe Real-Time Customer Data Platform profile attributes in Adobe Target. 
 

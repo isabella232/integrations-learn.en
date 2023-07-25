@@ -23,32 +23,44 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
         </tr>
     </tr>
     <tr>
-        <td><a href="../../integrations/tutorials/real-time-cdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Real-Time CDP and Target</a></td>
+        <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Real-Time CDP and Target</a></td>
         <td>Web SDK and Target destination</td>
         <td>
             <ul>
-                <li>When you want the fastest sharing of data from Real-Time CDP to Target.</li>
+                <li>When you want the fastest sharing of data from Real-Time CDP to Targe for your website.</li>
             </ul>
         </td>
         <td>
             <ul>
                 <li>Supports same-page and next-page personalization.</li>
-                <li>Supports profile attribute sharing.</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td><a href="../../integrations/tutorials/real-time-cdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Analytics with Real-Time CDP</a></td>
-        <td>at.js and Target destination</td>
+        <td>Real-Time CDP and Target</a></td>
+        <td><a href="../../integrations/tutorials/rtcdp-target/mobile-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Mobile SDK and Target destination</td>
         <td>
             <ul>
-                <li>When next-session personalization is sufficient.</li>
+                <li>When you want the fastest sharing of data from Real-Time CDP to Targe for your mobile application.</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Supports same-view and next-view personalization.</li>
+            </ul>
+        </td>
+    </tr>           
+    <tr>
+        <td>Real-Time CDP and Target</td>
+        <td><a href="../../integrations/tutorials/rtcdp-target/atjs-and-target-destination.md" target="_blank" rel="noreferrer">at.js and Target destination</a></td>
+        <td>
+            <ul>
+                <li>When next-session personalization is sufficient on your website.</li>
             </ul>
         </td>
         <td>
             <ul>
                 <li>Supports next-session personalization.</li>
-                <li>No profile attribute sharing.</li>
             </ul>
         </td>
     </tr>            
