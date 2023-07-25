@@ -87,5 +87,5 @@ mini-toc-levels: 1
     + [Analytics and Target](./tutorials/analytics-target/analytics-target.md)
   + Campaign and Real-Time CDP{#campaign-real-time-cdp}
     + [Campaign v8 and Real-Time CDP](./tutorials/campaign-real-time-cdp/campaign-v8-real-time-cdp.md)
-  + Real-Team CDP{#real-time-cdp-target}
-    + [Real-Time CDP and Target](./tutorials/real-time-cdp-target/web-sdk-and-target-destination.md)
+  + Real-Team CDP{#rtcdp-target}
+    + [Real-Time CDP and Target](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)

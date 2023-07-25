@@ -27,7 +27,7 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
         <td>Web SDK and Target destination</td>
         <td>
             <ul>
-                <li>TODO: Preferred method.</li>
+                <li>When you want the fastest sharing of data from Real-Time CDP to Target.</li>
             </ul>
         </td>
         <td>
@@ -38,11 +38,11 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
         </td>
     </tr>
     <tr>
-        <td><a href="https://adobe.com" target="_blank" rel="noreferrer">LINK TODO: Analytics with Real-Time CDP</a></td>
+        <td><a href="../../integrations/tutorials/real-time-cdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Analytics with Real-Time CDP</a></td>
         <td>at.js and Target destination</td>
         <td>
             <ul>
-                <li>TODO: For customers who haven't yet migrated their Target implementation to Web SDK.</li>
+                <li>When next-session personalization is sufficient.</li>
             </ul>
         </td>
         <td>
