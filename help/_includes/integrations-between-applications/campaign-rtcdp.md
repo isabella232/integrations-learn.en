@@ -24,7 +24,7 @@ The Adobe Campaign Managed Cloud Service Destination and Source connectors allow
     </thead>
     <tbody>
         <tr>
-            <td><a href="../../integrations/tutorials/campaign-real-time-cdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">Campaign v8 with Analytics</a></td>
+            <td><a href="../../integrations/tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">Campaign v8 with Analytics</a></td>
             <td>Campaign Managed Cloud Services Destination</td>
             <td>
                 <ul>

@@ -8,9 +8,7 @@ role: Leader, Architect, Admin, Developer
 level: Beginner
 index: yes
 hidefromtoc: true
-kt:
-thumbnail:
-last-substantial-update: 2023-04-11
+last-substantial-update: 2023-07-25
 badgeIntegration: label="Integration" type="positive"
 ---
 

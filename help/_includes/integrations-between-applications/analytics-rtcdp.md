@@ -25,7 +25,7 @@ By combining Adobe Analytics and Real-Time CDP, businesses can take their market
         </tr>
     </thead>
     <tr>
-        <td><a href="../../integrations/tutorials/analytics-real-time-cdp/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Analytics with Real-Time CDP</a></td>
+        <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Analytics with Real-Time CDP</a></td>
         <td>Experience Platform source connector</td>
         <td>
             <ul>
