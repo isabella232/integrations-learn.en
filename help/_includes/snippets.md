@@ -14,7 +14,7 @@ Adobe Audience Manager (AAM) is a data management platform (DMP) provided by Ado
 
 ## Campaign description {#campaign-description}
 
-Adobe Campaign coordinates conversational marketing campaigns, offering a platform for cross-channel customer experiences, visual campaign orchestration, real-time interaction management, and cross-channel execution.
+Adobe Campaign provides a platform for designing cross-channel customer experiences and an environment for visual campaign orchestration, real-time interaction management and cross channel execution.
 
 ## Commerce description {#commerce-description}
 
