@@ -27,16 +27,16 @@ The Adobe Analytics integration with Adobe Campaign enables seamless data sharin
     <tbody>
         <tr>
             <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Campaign Standard with Analytics</a></td>
-            <td>TODO</td>
+            <td>External Campaign account linked to Adobe Analytics and Admin configuration in Analytics</td>
             <td>
                 <ul>
-                    <li>Enhance your analytics reports with delivery data, such as clicks and opens</li>
-                    <li>Track the following data: sent, open, clicked, delivered, unsubscribes, and bounce.</li>                    
+                    <li>When you want to track the success of your email deliveries from Campaign directly in Adobe Analytics.</li>
                 </ul>
             </td>
             <td>
               <ul>
-                <li>Report on marketing campaign data.</li>
+                <li>Enhance your analytics reports with Campaign delivery data, including emails sent, emails clicked, emails opened, emails delivered, unsubscribes, and bounces.</li>
+                <li>Analyze downstream conversion events for Campaign clicks driving traffic to your digital properties, such as form leads, online orders, or other events captured in Analytics.</li>
               </ul>
             </td>
         </tr>
