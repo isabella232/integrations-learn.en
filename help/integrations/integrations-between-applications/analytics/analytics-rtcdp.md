@@ -8,6 +8,7 @@ role: Leader, Architect, Admin, Developer
 level: Intermediate
 kt:
 thumbnail:
+badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-29
 ---
 
