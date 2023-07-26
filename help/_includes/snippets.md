@@ -6,7 +6,7 @@ Adobe Acrobat Sign is a digital signature service offered by Adobe that allows u
 
 ## Analytics description {#analytics-description}
 
-Adobe Analytics is a robust data analysis platform that enables organizations to track, measure, and analyze user behavior on their digital properties, such as websites, mobile apps, and social media. Adobe Analytics provides insights into how users interact with digital content, helping organizations optimize their digital experiences and improve their marketing strategies.
+Adobe Analytics is an analytics solution that enables organizations to track, measure, and analyze user behavior on their digital properties, such as websites, mobile apps, streaming media, and social media. Adobe Analytics provides insights into how users interact with digital content, helping organizations optimize their digital experiences and improve their marketing strategies.
 
 ## Audience Manager description {#audience-manager-description}
 
@@ -54,7 +54,7 @@ Adobe Real-Time Customer Data Platform (Real-Time CDP) is a customer data manage
 
 ## Target description {#target-description}
 
-Adobe Target, is a powerful testing and personalization platform that allows businesses to optimize and deliver personalized experiences to their customers. Adobe Target enables businesses to create and test personalized experiences using machine learning, AI, and analytics to deliver the right message to the right audience.
+Adobe Target is a powerful testing and personalization platform that allows businesses to optimize and deliver personalized experiences to their customers. Adobe Target enables businesses to create and test personalized experiences using machine learning, AI, and analytics to deliver the right message to the right audience.
 
 ## Workfront description {#workfront-description}
 

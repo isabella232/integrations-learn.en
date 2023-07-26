@@ -32,7 +32,7 @@ Integrating Adobe Analytics with Customer Journey Analytics offers key benefits:
             <td>Experience Platform source connector</td>
             <td>
                 <ul>
-                    <li>TODO: Use this integration to ingest Analytics data into Experience Platform from your report suites.</li>
+                    <li>Recommended approach for customers who have already implemented Adobe Analytics, and want the fastest way to ingest this data into Experience Platform to use in Customer Journey Analytics.</li>
                     <li>When data availability to the Customer Profile can be between 2-30 minutes from the time of data collection, and availability to the Data Lake is up to 90 minutes.</li>
                 </ul>
             </td>
@@ -45,12 +45,12 @@ Integrating Adobe Analytics with Customer Journey Analytics offers key benefits:
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.adobe.com/" target="_blank" rel="noreferrer">LINK TODO: Analytics with Customer Journey Analytics</a></td>
+            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-edge.md" target="_blank" rel="noreferrer">Analytics with Customer Journey Analytics</a></td>
             <td>Experience Platform Edge</td>
             <td>
                 <ul>
-                    <li>When you wan to implement a long-term strategy. This sends data directly from a device to the Experience Platform using the AEP Web SDK, AEP Mobile SDK, or the Edge Network Server API.</li>
-                    <li>When you are a new customer or existing customer, who need Analytics data availability to the Customer Profile to support same and next page personalization use cases.</li>
+                    <li>Recommended approach for new Analytics implementations or when you want to implement a long-term strategy.</li>
+                    <li>Sends data directly from a device to the Experience Platform using the AEP Web SDK, AEP Mobile SDK, or the Edge Network Server API.</li>
                 </ul>
             </td>
             <td>

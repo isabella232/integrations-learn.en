@@ -77,8 +77,10 @@ mini-toc-levels: 1
   + Analytics and Commerce{#analytics-commerce}
     + [Analytics and Commerce](./tutorials/analytics-commerce/analytics-commerce.md)
   + Analytics and CJA{#analytics-cja}
+    + [Analytics and CJA](./tutorials/analytics-cja/experience-platform-edge.md)
     + [Analytics and CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
   + Analytics and Real-Time CDP{#analytics-real-time-cdp}
+    + [Analytics and Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
     + [Analytics and Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
   + Analytics and Target{#analytics-target}
     + [Analytics and Target](./tutorials/analytics-target/analytics-target.md)
