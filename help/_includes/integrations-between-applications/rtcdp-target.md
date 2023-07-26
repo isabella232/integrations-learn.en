@@ -14,14 +14,15 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
 + **Target content** to segments and display attribute values.
 
 <table>
-    <tr>
+    <thead>
         <tr>
             <th>Experience Cloud applications</th>
             <th>Integrates using</th>
             <th>When to use</th>
             <th>Common use cases</th>
         </tr>
-    </tr>
+    </thead>
+    <tbody>
     <tr>
         <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Real-Time CDP and Target</a></td>
         <td>Web SDK and Target destination</td>
@@ -63,5 +64,6 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
                 <li>Supports next-session personalization.</li>
             </ul>
         </td>
-    </tr>            
+    </tr>    
+    </tbody>
 </table>
