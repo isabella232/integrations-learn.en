@@ -84,6 +84,9 @@ mini-toc-levels: 1
     + [Analytics and Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
   + Analytics and Target{#analytics-target}
     + [Analytics and Target](./tutorials/analytics-target/analytics-target.md)
+  + Campaign and Analytics{#campaign-analytics}
+    + [Integrate Campaign Standard with Analytics using Triggers tutorial](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+    + 
   + Campaign and Real-Time CDP{#campaign-real-time-cdp}
     + [Campaign v8 and Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
   + Real-Team CDP{#rtcdp-target}
