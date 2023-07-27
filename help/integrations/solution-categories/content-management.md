@@ -125,13 +125,6 @@ description:  In today's digital landscape, catering to the unique needs of mill
       </td>
     </tr>
     <tr>
-      <td><strong>Create marketing collateral using brand assets</strong></td>
-      <td>
-        Leverage brand assets efficiently across marketing campaigns by
-        utilizing AEM Assets Essentials and Adobe Journey Optimizer.
-      </td>
-    </tr>
-    <tr>
       <td><strong>Capture customer data</strong></td>
       <td>
         Augment native Campaign capabilities to capture customer data for
