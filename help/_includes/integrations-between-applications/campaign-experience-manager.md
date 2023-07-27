@@ -25,7 +25,7 @@ The key benefits of integrating Adobe Campaign and AEM Experience Manager are:
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html" target="_blank" rel="noreferrer">Campaign v7/v8 with AEM Assets 6.5</a></td>
+            <td><a href="../../integrations/tutorials/campaign-aem/campaign-v8-with-experience-manager.md" target="_blank" rel="noreferrer">Campaign v7/v8 with AEM Assets 6.5</a></td>
             <td>AEM integration package</td>
             <td>
                 <ul>

@@ -7,6 +7,7 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
 last-substantial-update: 2023-06-30
+badgeIntegration: label="Integration" type="positive"
 ---
 
 # Integrate Campaign and Real-Time Customer Data Platform
