@@ -9,6 +9,7 @@ level: Beginner
 kt:
 thumbnail:
 last-substantial-update: 2023-05-19
+badgeIntegration: label="Integration" type="positive"
 ---
 
 # Integrate Target with Campaign

@@ -11,6 +11,7 @@ kt:
 thumbnail:
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-26
+hidefromtoc: true
 ---
 
 # Integrate Experience Manager with Journey Optimizer
