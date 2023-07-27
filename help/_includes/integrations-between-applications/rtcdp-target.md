@@ -27,17 +27,17 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
         <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Real-Time CDP and Target</a></td>
         <td>Web SDK and Target destination</td>
         <td>
-            <ul>
+            <ul style="margin-top: 0px !important">
                 <li>When you want the fastest sharing of data from Real-Time CDP to Targe for your website.</li>
             </ul>
         </td>
         <td>
-            <ul>
+            <ul style="margin-top: 0px !important">
                 <li>Supports same-page and next-page personalization.</li>
             </ul>
         </td>
     </tr>
-    <tr>
+    <!--<tr>
         <td>Real-Time CDP and Target</a></td>
         <td><a href="../../integrations/tutorials/rtcdp-target/mobile-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Mobile SDK and Target destination</td>
         <td>
@@ -64,6 +64,6 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
                 <li>Supports next-session personalization.</li>
             </ul>
         </td>
-    </tr>    
+    </tr>    -->
     </tbody>
 </table>
