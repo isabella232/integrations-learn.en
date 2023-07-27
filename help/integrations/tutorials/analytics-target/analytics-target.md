@@ -17,9 +17,22 @@ badgeIntegration: label="Integration" type="positive"
 # Integrate Analytics with Target
 
 
-## Supported activity types
+## Integration value and setup
 
-The videos below show different features, activity types, and benefits of integrating via A4T.
+The videos below show the value of using this integration, as well as details regarding getting the integration set up.
+
+>[!NOTE]
+>
+>These videos demonstrate the implementation and validation for Target at.js and Analytics appMeasurement.js. Please refer to the [documentation](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html) for required library versions in both tools.
+
+### Setting up A4T (Analytics for Target)
+
+In this video, meant for a developer, you learn how to:
+
+* Explain how Analytics and Target requests bind up using SDID
+* Describe implementation requirements for Adobe Analytics with Adobe Target (A4T)
+
+>[!VIDEO](https://video.tv.adobe.com/v/35146/?quality=12&learn=on)
 
 ### Use Analytics as a Data Source for Target
 
@@ -31,14 +44,10 @@ In this video, meant for a business practitioner, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/17384/?quality=12&learn=on)
 
-### Setting up A4T
 
-In this video, meant for a developer, you learn how to:
+## Common use cases
 
-* Explain how Analytics and Target requests bind up using SDID
-* Describe implementation requirements for Adobe Analytics with Adobe Target (A4T)
-
->[!VIDEO](https://video.tv.adobe.com/v/35146/?quality=12&learn=on)
+The videos below show different features, activity types, and benefits of integrating via A4T.
 
 ### Analytics for Target (A4T) Panel in Analysis Workspace
 
@@ -52,9 +61,7 @@ In this video, you will learn how to use the Analytics for Target panel to visua
 
 >[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
 
-We also have two step-by-step tutorials showing you the details for:
-* [Setting up A4T reports in Analysis Workspace for Auto-Allocate activities](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=en){target="_blank"}
-* [Setting up A4T reports in Analysis Workspace for Auto-Target activities](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=en){target="_blank"}
+We also have two step-by-step tutorials showing you the details for setting up A4T reports in Analysis Workspace for "auto-allocate" and "auto-target" activities:
 
 ## Setting up A4T reports in Analysis Workspace for Auto-Allocate activities {#a4t-auto-allocate}
 
