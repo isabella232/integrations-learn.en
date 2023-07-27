@@ -232,7 +232,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-time Customer Data Platform and Target</a
+          >Real-Time Customer Data Platform and Target</a
         >
       </td>
     </tr>
@@ -252,7 +252,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-time Customer Data Platform and Target</a
+          >Real-Time Customer Data Platform and Target</a
         >
       </td>
     </tr>

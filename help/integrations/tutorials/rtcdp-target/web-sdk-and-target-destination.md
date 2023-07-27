@@ -1,7 +1,7 @@
 ---
 title: Integrate Real-Time CDP and Target with Web SDK and Target destination
 description: Learn how to integrate Real-Time CDP and Target with Web SDK and Target destination. 
-solution: Target, Real-time Customer Data Platform 
+solution: Target, Real-Time Customer Data Platform 
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer

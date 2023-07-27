@@ -98,7 +98,7 @@ Develop real-time customer profiles by pulling data from all sources to create p
       <li>Real-time offer personalization</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-time Customer Data Platform and Target</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-Time Customer Data Platform and Target</a></td>
 </tr>
 
 <tr>
@@ -109,7 +109,7 @@ Develop real-time customer profiles by pulling data from all sources to create p
       <li>Content personalization for known visitors</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-time Customer Data Platform and Target</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-Time Customer Data Platform and Target</a></td>
 </tr>
 
 </table>

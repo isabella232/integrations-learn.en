@@ -339,7 +339,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-time Customer Data Platform and Target</a
+          >Real-Time Customer Data Platform and Target</a
         >
       </td>
     </tr>     
@@ -359,7 +359,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-time Customer Data Platform and Target</a
+          >Real-Time Customer Data Platform and Target</a
         >
       </td>
     </tr>
