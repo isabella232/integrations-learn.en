@@ -20,17 +20,17 @@ Learn how to configure and use triggers for transactional messaging.
 
 ## Configure Adobe Experience Platform Data Collection for triggers
 
-Learn how to Adobe Experience Platform Data Collection and add the required properties to your website in order to test your configuration.
+Learn how to Adobe Experience Platform Data Collection and add the required properties to your website to test your configuration.
 
 >[!IMPORTANT]
 >
-> Please be aware that Launch is now the Tags feature of Adobe Experience Platform. It can be found under **Adobe Experience Platform Data Collections**.  
+> Launch is now the Tags feature of Adobe Experience Platform. It can be found under **Adobe Experience Platform Data Collections**.  
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
 
 ## Create a trigger in Experience Cloud
 
-Learn how to configure triggers in the Experience cloud.
+Learn how to configure triggers in the Experience Cloud.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
 
@@ -40,9 +40,9 @@ Learn how to create a trigger event in Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
 
-## Configure transactional messages using realtime event data
+## Configure transactional messages using real-time event data
 
-Learn how to configure transactional messages using realtime event data coming from triggers.
+Learn how to configure transactional messages using real-time event data coming from triggers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
 
