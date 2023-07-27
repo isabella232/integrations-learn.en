@@ -18,7 +18,7 @@ badgeIntegration: label="Integration" type="positive"
 
 Learn how to connect Adobe Campaign with Adobe Experience Manager to manage email delivery templates, assets, and forms in Experience Manager.
 
-The following video explains what you will learn.
+The following video explains what you learn.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on)
 
@@ -36,6 +36,6 @@ Learn how to create a newsletter in Experience Manager and how to approve and pu
 
 ## Synchronize & send an Experience Manager email delivery in Campaign
 
-Learn how to test and send a newsletter, that was created in Experience Manager, in Campaign.
+Learn how to test and send a newsletter that was created in Experience Manager, in Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)
