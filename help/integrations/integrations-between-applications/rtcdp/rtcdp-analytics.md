@@ -1,7 +1,7 @@
 ---
 title: Integrate the Real-Time Customer Data Platform with Analytics
 description: Learn how to integrate the Real-Time Customer Data Platform with Analytics. 
-solution: Real-time Customer Data Platform, Analytics
+solution: Real-Time Customer Data Platform, Analytics
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
