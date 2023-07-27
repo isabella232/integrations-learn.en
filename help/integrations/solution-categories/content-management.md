@@ -130,21 +130,6 @@ description:  In today's digital landscape, catering to the unique needs of mill
         Leverage brand assets efficiently across marketing campaigns by
         utilizing AEM Assets Essentials and Adobe Journey Optimizer.
       </td>
-      <td>
-        <ul>
-          <li>
-            Create and manage assets in AEM Asset Essentials and use them in AJO
-          </li>
-        </ul>
-      </td>
-      <td>
-        <a
-          href="../integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md"
-          target="_blank"
-          rel="noopener noreferrer"
-          >Adobe Journey Optimizer and AEM Asset Essentials</a
-        >
-      </td>
     </tr>
     <tr>
       <td><strong>Capture customer data</strong></td>
