@@ -34,24 +34,11 @@ Use Adobe Campaign with Adobe Target to personalize and optimize your email cont
             </td>
             <td>
               <ul>
-                <li>TODO: Product offers.</li>
+                <li>Offer different discounts based on loyalty status. </li>
+                <li>Display different product offers for male and female customers.
               </ul>
             </td>
         </tr>     
-        <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html" target="_blank" rel="noreferrer">Campaign Standard with Target</a></td>
-            <td>
-                <ul>
-                    <li>When you want to personalize email content.</li>
-                    <li>When you want to add dynamic content to emails based on the recipient.</li>
-                </ul>
-            </td>
-            <td>
-              <ul>
-                <li>TODO: Product offers.</li>
-              </ul>
-            </td>
-        </tr>                  
     </tbody>          
 </table>
 
