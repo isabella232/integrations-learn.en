@@ -29,7 +29,7 @@ Overall, the integration of Adobe Customer Journey Analytics and Adobe Real-Time
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html" target="_blank" rel="noreferrer">Customer Journey Analytics and Real-Time CDP</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html" target="_blank" rel="noreferrer">Customer Journey Analytics and Real-Time CDP</a></td>
             <td>
                 <ul>
                     <li>When you want to use an audience for a journey in Adobe Journey Optimizer.</li>
