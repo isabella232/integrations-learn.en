@@ -26,7 +26,7 @@ mini-toc-levels: 1
     + [[!DNL Commerce]](./integrations-between-applications/analytics/analytics-commerce.md)
     + [[!DNL Customer Journey Analytics]](./integrations-between-applications/analytics/analytics-customer-journey-analytics.md)
     + [[!DNL Experience Manager]](./integrations-between-applications/analytics/analytics-experience-manager.md)
-    + [[!DNL Real-Time CDP]](./integrations-between-applications/rtcdp/rtcdp-analytics.md)
+    + [[!DNL Real-Time CDP]](./integrations-between-applications/analytics/analytics-rtcdp.md)
     + [[!DNL Target]](./integrations-between-applications/analytics/analytics-target.md)
   + [!DNL Audience Manager]{#aam}
     + [[!DNL Analytics]](./integrations-between-applications/aam/aam-analytics.md)
@@ -60,7 +60,7 @@ mini-toc-levels: 1
   + [!DNL Marketo]{#marketo}
     + [[!DNL Experience Manager]](./integrations-between-applications/marketo/marketo-experience-manager.md)
   + [!DNL Real-Time CDP]{#rtcdp}
-    + [[!DNL Analytics]](./integrations-between-applications/analytics/analytics-rtcdp.md)
+    + [[!DNL Analytics]](./integrations-between-applications/rtcdp/rtcdp-analytics.md)
     + [[!DNL Audience Manager]](./integrations-between-applications/rtcdp/rtcdp-aam.md)
     + [[!DNL Campaign]](./integrations-between-applications/rtcdp/rtcdp-campaign.md)
     + [[!DNL Customer Journey Analytics]](./integrations-between-applications/rtcdp/rtcdp-cja.md)
