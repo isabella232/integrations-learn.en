@@ -8,6 +8,7 @@ role: User, Developer
 level: Beginner
 kt:
 thumbnail:
+index: no
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-05-19
 ---

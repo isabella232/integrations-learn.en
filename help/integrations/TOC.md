@@ -43,7 +43,6 @@ mini-toc-levels: 1
     + [[!DNL Workfront]](./integrations-between-applications/creative-cloud/creative-cloud-workfront.md)
   + [!DNL Customer Journey Analytics]{#cja}
     + [[!DNL Analytics]](./integrations-between-applications/cja/customer-journey-analytics-analytics.md)
-    + [[!DNL Campaign]](./integrations-between-applications/rtcdp/rtcdp-campaign.md)
     + [[!DNL Real-Time CDP]](./integrations-between-applications/cja/cja-rtcdp.md)
   + [!DNL Experience Manager]{#experience-manager}
     + [[!DNL Acrobat Sign]](./integrations-between-applications/experience-manager/experience-manager-acrobat-sign.md)
@@ -63,6 +62,7 @@ mini-toc-levels: 1
   + [!DNL Real-Time CDP]{#rtcdp}
     + [[!DNL Analytics]](./integrations-between-applications/rtcdp/rtcdp-analytics.md)
     + [[!DNL Audience Manager]](./integrations-between-applications/rtcdp/rtcdp-aam.md)
+    + [[!DNL Campaign]](./integrations-between-applications/rtcdp/rtcdp-campaign.md)
     + [[!DNL Customer Journey Analytics]](./integrations-between-applications/rtcdp/rtcdp-cja.md)
     + [[!DNL Target]](./integrations-between-applications/rtcdp/rtcdp-target.md)
   + [!DNL Target]{#target}
