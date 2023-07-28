@@ -10,7 +10,7 @@ kt:
 thumbnail:
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-05-19
-badgeIntegration: label="Integration" type="positive"
+
 ---
 
 # Integrate Campaign with Analytics
