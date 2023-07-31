@@ -25,8 +25,8 @@ By combining Adobe Analytics and Real-Time CDP, businesses can take their market
         </tr>
     </thead>
     <tr>
-        <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Analytics with Real-Time CDP</a></td>
-        <td>Experience Platform source connector</td>
+        <td>Analytics with Real-Time CDP</td>
+        <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Experience Platform source connector</a></td>
         <td>
             <ul>
                 <li>Recommended approach for customers who have already implemented Adobe Analytics, and want the fastest way to ingest this data into Experience Platform to use in the Real-Time Customer Profile.</li>
@@ -42,8 +42,8 @@ By combining Adobe Analytics and Real-Time CDP, businesses can take their market
         </td>
     </tr>
     <tr>
-        <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-edge.md" target="_blank" rel="noreferrer">Analytics with Real-Time CDP</a></td>
-        <td>Experience Platform Edge</td>
+        <td>Analytics with Real-Time CDP</td>
+        <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-edge.md" target="_blank" rel="noreferrer">Experience Platform Edge</a></td>
         <td>
             <ul>
                 <li>Recommended approach for new Analytics implementations or when you want to implement a long-term strategy.</li>

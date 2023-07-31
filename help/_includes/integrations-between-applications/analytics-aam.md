@@ -33,7 +33,7 @@ Overall, this integration brings together valuable data and audience insights. I
     <tbody>
         <tr>
             <td>
-                <a href="/docs/analytics-learn/tutorials/integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.html" target="_blank" rel="noreferrer">Analytics and Audience Manager</a>
+                <a href="/docs/analytics-learn/tutorials/integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.html" target="_blank" rel="noreferrer">Analytics sending data to Audience Manager</a>
             </td>
             <td>Adobe Analytics tags extension or AppMeasurement.js with server-side forwarding enabled</td>
             <td>
@@ -51,7 +51,7 @@ Overall, this integration brings together valuable data and audience insights. I
         </tr>        
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">Audience Manager and Analytics</a>
+                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">Audience Manager sending data back to Analytics</a>
             </td>
             <td>Adobe Analytics tags extension or AppMeasurement.js with server-side forwarding enabled</td>
             <td>

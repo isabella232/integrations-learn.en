@@ -26,8 +26,8 @@ The Adobe Analytics integration with Adobe Campaign enables seamless data sharin
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Campaign Standard with Analytics</a></td>
-            <td>External Campaign account linked to Adobe Analytics and Admin configuration in Analytics</td>
+            <td rowspan="2">Campaign Standard with Analytics</td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">External Campaign account linked to Adobe Analytics and Admin configuration in Analytics</a></td>
             <td>
                 <ul>
                     <li>When you want to track the success of your email deliveries from Campaign directly in Adobe Analytics.</li>
@@ -41,8 +41,7 @@ The Adobe Analytics integration with Adobe Campaign enables seamless data sharin
             </td>
         </tr>
         <tr>
-            <td><a href="../../integrations/tutorials/campaign-analytics/campaign-analytics-trigger.md" target="_blank" rel="noreferrer">Campaign Standard with Analytics</a></td>
-            <td>Triggers</li>
+            <td><a href="../../integrations/tutorials/campaign-analytics/campaign-analytics-trigger.md" target="_blank" rel="noreferrer">Triggers</a></li>
             <td>
                 <ul>
                     <li>Trigger transactional messages using real time event data.</li>
