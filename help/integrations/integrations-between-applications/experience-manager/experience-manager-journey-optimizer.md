@@ -10,7 +10,7 @@ index: no
 kt:
 thumbnail:
 badgeIntegration: label="Integration" type="positive"
-last-substantial-update: 2023-06-26
+last-substantial-update: 2023-07-31
 hidefromtoc: true
 ---
 

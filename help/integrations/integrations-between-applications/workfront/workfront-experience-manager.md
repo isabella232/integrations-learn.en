@@ -9,7 +9,7 @@ level: Beginner
 kt:
 thumbnail:
 badgeIntegration: label="Integration" type="positive"
-last-substantial-update: 2023-04-11
+last-substantial-update: 2023-07-31
 ---
 
 # Integrate Workfront with Experience Manager
