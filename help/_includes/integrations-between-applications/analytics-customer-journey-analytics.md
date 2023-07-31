@@ -28,8 +28,8 @@ Integrating Adobe Analytics with Customer Journey Analytics offers key benefits:
     </thead>
     <tbody>
         <tr>
-            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Analytics and Customer Journey Analytics</a></td>
-            <td>Experience Platform source connector</td>
+            <td rowspan="2">Analytics and Customer Journey Analytics</td>
+            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Experience Platform source connector</a></td>
             <td>
                 <ul>
                     <li>Recommended approach for customers who have already implemented Adobe Analytics, and want the fastest way to ingest this data into Experience Platform to use in Customer Journey Analytics.</li>
@@ -45,8 +45,7 @@ Integrating Adobe Analytics with Customer Journey Analytics offers key benefits:
             </td>
         </tr>
         <tr>
-            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-edge.md" target="_blank" rel="noreferrer">Analytics and Customer Journey Analytics</a></td>
-            <td>Experience Platform Edge</td>
+            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-edge.md" target="_blank" rel="noreferrer">Experience Platform Edge</a></td>
             <td>
                 <ul>
                     <li>Recommended approach for new Analytics implementations or when you want to implement a long-term strategy.</li>
