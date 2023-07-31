@@ -28,8 +28,8 @@ Integrating Adobe Analytics and Adobe Experience Manager provides several benefi
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Analytics with AEM Sites</a></td>
-            <td>Experience Platform Web SDK tags extension or alloy.js</td>
+            <td rowspan="2">Analytics with AEM Sites</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Experience Platform Web SDK tags extension or alloy.js</a></td>
             <td>
                 <ul>
                     <li>When you want to report on AEM web analytics data in Adobe Analytics, and position yourself to integrate with other Experience Cloud applications in the future.</li>
@@ -44,8 +44,7 @@ Integrating Adobe Analytics and Adobe Experience Manager provides several benefi
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html" target="_blank" rel="noreferrer">Analytics with AEM Sites</a></td>
-            <td>Adobe Analytics tags extension or AppMeasurement.js</td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html" target="_blank" rel="noreferrer">Adobe Analytics tags extension or AppMeasurement.js</a></td>
             <td>
                 <ul>
                     <li>When you want to report on AEM web analytics data in Adobe Analytics, and are not planning on using the data in other Experience Cloud applications</li>
