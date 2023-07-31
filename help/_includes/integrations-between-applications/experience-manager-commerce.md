@@ -20,15 +20,15 @@ Integrating AEM and Adobe Commerce using Commerce Integration Framework (CIF) pr
     <thead>
         <tr>
             <th>Experience Cloud applications</th>
-            <th>Integrates using</th>
+            <th>Integration description</th>
             <th>When to use</th>
             <th>Common use cases</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">AEM Sites as Cloud Service and Commerce</a></td>
-            <td>Commerce Integration Framework (CIF) add-on</td>
+            <td rowspan="3">AEM Sites as Cloud Service and Commerce</td>
+            <td><strong>Create a single storefront</strong> using Commerce Integration Framework (CIF) add-on</td>
             <td>
                 <ul>
                     <li>When you want a single storefront in AEM.</li>
@@ -36,16 +36,11 @@ Integrating AEM and Adobe Commerce using Commerce Integration Framework (CIF) pr
                 </ul>
             </td>
             <td>
-                <ul>
-                    <li>
-                        Create a single e-commerce storefront.
-                    </li>
-                </ul>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">Create a single e-commerce storefront.</a>
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">AEM Sites as Cloud Service and Commerce</a></td>
-            <td>Commerce Integration Framework (CIF) add-on</td>
+            <td><strong>Create multiple storefronts</strong> using Commerce Integration Framework (CIF) add-on</td>
             <td>
                 <ul>
                     <li>When you want multiple storefronts in AEM.</li>
@@ -53,19 +48,16 @@ Integrating AEM and Adobe Commerce using Commerce Integration Framework (CIF) pr
                 </ul>
             </td>
             <td>
-                <ul>
-                    <li>Create multiple storefronts across geographies or languages.</li>
-                </ul>
+                <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">Create multiple storefronts across geographies or languages.</a>
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html" target="_blank" rel="noreferrer">AEM Sites as Cloud Service and Commerce</a></td>
-            <td>Commerce Integration Framework (CIF) add-on</td>
+            <td><strong>Multiple commerce systems</strong> using Commerce Integration Framework (CIF) add-on</td>
             <td>
-                <ul><li>When you need multiple storefronts across many systems, including AEM.</li></ul>
+                <ul><li>When you want multi-region or multi-brand storefronts using many commerce systems.</li></ul>
             </td>
             <td>
-                <ul><li>Create multiple storefronts across brands.</li></ul>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html" target="_blank" rel="noreferrer">Multiple commerce systems across brands or region.</a>
             </td>
         </tr>
     </tbody>          
