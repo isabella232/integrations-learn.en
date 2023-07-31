@@ -7,7 +7,7 @@
 
 {{target-description}}
 
-Integrating Real-Time CDP with Target gives you the ability to personalize content using known customer data. Additionally, the data governance and consent capabilities of Real-Time CDP help ensure you are using that known customer data responsibly and adhering to legal, contractual, and regulatory restrictions as well as respecting customer preferences. Key benefits of integrating Real-Time CDP and Target include:
+Integrating Real-Time CDP with Target gives you the ability to personalize content using known customer data. Also, the data governance and consent capabilities of Real-Time CDP help ensure you are using that known customer data responsibly and adhering to legal, contractual, and regulatory restrictions as well as respecting customer preferences. Key benefits of integrating Real-Time CDP and Target include:
 
 + **Deliver personalized experiences** on your website and mobile apps.
 + **Share segments and profile attributes** from Adobe Real-Time CDP to Adobe Target.
@@ -28,7 +28,7 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
         <td>Web SDK and Target destination</td>
         <td>
             <ul style="margin-top: 0px !important">
-                <li>When you want the fastest sharing of data from Real-Time CDP to Targe for your website.</li>
+                <li>When you want the fastest sharing of data from Real-Time CDP to Target for your website.</li>
             </ul>
         </td>
         <td>
