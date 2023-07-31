@@ -10,7 +10,7 @@ kt:
 thumbnail:
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-25
-index: false
+index: no
 ---
 
 # Integrate Workfront with Creative Cloud
