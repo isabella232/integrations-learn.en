@@ -44,9 +44,13 @@ Adobe Experience Platform is the most powerful, flexible, and open system on the
 
 Adobe Journey Optimizer helps companies deliver connected, contextual, and personalized experiences to their customers. The customer journey is the entire process of a customer's interactions with the brand. Journey Optimizer allows brands to intelligently determine the next best interaction with scale, speed, and flexibility across the entire customer journey. With Adobe Journey Optimizer, companies can create and deliver both scheduled marketing campaigns (such as weekly promotions for a retail store) and tailored individual communications (like a push notification for an item that a loyalty app customer may have looked at that was previously out of stock) within the same application.
 
-## Marketo description {#marketo-description}
+## Marketo Engage description {#marketo-description}
 
-Adobe Marketo is a marketing automation platform and customer engagement software offered by Adobe. It is used by businesses and marketers to streamline marketing campaigns, manage customer relationships, and automate various marketing processes, such as lead generation, email marketing, analytics, and personalized content delivery, ultimately helping organizations to drive customer engagement and improve marketing effectiveness.
+Adobe Marketo Engage is a marketing automation platform and customer engagement software offered by Adobe. It is used by businesses and marketers to streamline marketing campaigns, manage customer relationships, and automate various marketing processes, such as lead generation, email marketing, analytics, and personalized content delivery, ultimately helping organizations to drive customer engagement and improve marketing effectiveness.
+
+## Marketo Measure description {#marketo-measure-description}
+
+Adobe Marketo Measure gives marketers insight into which marketing efforts are the most effective in driving revenue for their company. Marketo Measure is a marketing attribution solution that automatically tracks and reports on channel performance, providing visibility into which channels are driving the most customer engagement and allowing you to optimize your marketing spend accordingly.
 
 ## Real-Time CDP description {#real-time-cdp-description}
 

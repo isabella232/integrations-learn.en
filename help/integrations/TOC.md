@@ -50,14 +50,14 @@ mini-toc-levels: 1
     + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
     + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
     + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
-    + [[!DNL Marketo]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
+    + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
     + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
     + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
   + Experience Platform{#experience-platform}
      + [Overview](./integrations-between-applications/experience-platform/platform.md)
   + Journey Optimizer{#journey-optimizer}
     + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
-  + [!DNL Marketo]{#marketo}
+  + [!DNL Marketo Engage]{#marketo}
     + [[!DNL Experience Manager]](./integrations-between-applications/marketo/marketo-experience-manager.md)
   + [!DNL Real-Time CDP]{#rtcdp}
     + [[!DNL Analytics]](./integrations-between-applications/rtcdp/rtcdp-analytics.md)
