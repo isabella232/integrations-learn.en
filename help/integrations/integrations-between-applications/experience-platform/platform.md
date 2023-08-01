@@ -27,12 +27,6 @@ Integrating applications with _multiple Platform-native applications_ share many
 * [with Analytics](../cja/customer-journey-analytics-analytics.md)
 * [with Real-Time CDP](../cja/cja-rtcdp.md)
 
-
-## Journey Optimizer
-
-* [with Experience Manager](../journey-optimizer/journey-optimizer-experience-manager.md)
-
-
 ## Real-Time Customer Data Platform (CDP)
 
 * [with Analytics](../rtcdp/rtcdp-analytics.md)
