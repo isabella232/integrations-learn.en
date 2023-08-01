@@ -1,7 +1,7 @@
 ---
 title: Integrate Real-Time Customer Data Platform with Audience Manager
 description: Learn how to integrate Real-Time Customer Data Platform with Audience Manager. 
-solution: Real-Time Customer Data Platform, Audience Manager
+solution: Audience Manager, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
