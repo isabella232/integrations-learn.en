@@ -1,7 +1,7 @@
 ---
 title: Integrate Target with Analytics
 description: Learn how to integrate Adobe Target with Adobe Analytics. 
-solution: Analytics, Target
+solution: Target, Analytics
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
