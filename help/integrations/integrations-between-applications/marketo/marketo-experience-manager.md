@@ -1,6 +1,6 @@
 ---
-title: Integrate Marketo with AEM
-description: Learn how to integrate Marketo with Adobe Experience Manager (AEM).
+title: How to integrate Marketo with AEM
+description: Integrate Adobe Experience Manager Forms (AEM Forms) with Marketo streamline lead generation.
 solution: Marketo, Experience Manager, Experience Manager Forms
 feature: Integrations
 topic: Integrations

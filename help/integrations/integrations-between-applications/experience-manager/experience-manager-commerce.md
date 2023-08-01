@@ -1,6 +1,6 @@
 ---
-title: Integrate AEM with Adobe Commerce 
-description: Learn how to integrate Adobe Experience Manager (AEM) with Adobe Commerce.
+title: How to integrate AEM with Adobe Commerce 
+description: Integrate Adobe Experience Manager (AEM) with Adobe Commerce to build engaging shopping experiences.
 solution: Experience Manager, Experience Manager Sites, Commerce
 feature: Integrations
 topic: Integrations

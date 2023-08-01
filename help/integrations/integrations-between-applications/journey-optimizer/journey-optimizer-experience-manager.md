@@ -1,6 +1,6 @@
 ---
 title: Integrate Journey Optimizer with Experience Manager
-description: Learn how to integrate Adobe Journey Optimizer with Adobe Experience Manager Assets Essentials.
+description: Integrate AEM with Adobe Journey Optimizer to create and manage customer journeys.
 solution: Journey Optimizer, Experience Manager
 feature: Integrations
 topic: Integrations

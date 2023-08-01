@@ -1,6 +1,6 @@
 ---
-title: Integrate Target with AEM
-description: Learn how to integrate Target with Adobe Experience Manager (AEM).
+title: How to integrate Target with AEM
+description: Integrate Adobe Experience Manager (AEM) with Target to deliver personalized experiences.
 solution: Target, Experience Manager, Experience Manager Sites
 feature: Integrations
 topic: Integrations

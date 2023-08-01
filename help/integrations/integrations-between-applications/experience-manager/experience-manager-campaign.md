@@ -1,6 +1,6 @@
 ---
-title: Integrate AEM with Campaign
-description: Learn how to integrate Adobe Experience Manager (AEM) with Campaign.
+title: How to integrate AEM with Campaign
+description: Integrate Adobe Experience Manager (AEM) with Campaign to create and manage email campaigns.
 solution: Campaign, Experience Manager, Experience Manager Forms
 feature: Integrations
 topic: Integrations
