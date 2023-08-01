@@ -1,7 +1,7 @@
 ---
 title: Integrate Campaign Standard with Analytics using Triggers  tutorial
 description: Learn how to configure and use triggers for transactional messaging.
-solution: Analytics, Campaign
+solution: Analytics, Campaign Standard
 feature: Integrations
 topic: Integrations
 role: Admin
