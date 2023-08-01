@@ -20,10 +20,10 @@ Integrating Adobe Analytics with Customer Journey Analytics offers key benefits:
 <table>
     <thead>
         <tr>
-            <td>Experience Cloud applications</td>
-            <td>Integrates using</td>
-            <td>When to use</td>
-            <td>Common use cases</td>
+            <th>Experience Cloud applications</th>
+            <th>Integrates using</th>
+            <th>When to use</th>
+            <th>Common use cases</th>
         </tr>
     </thead>
     <tbody>
