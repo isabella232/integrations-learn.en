@@ -1,7 +1,7 @@
 ---
 title: Integrate Campaign with Real-Time Customer Data Platform 
 description: Learn how to integrate Campaign with Real-Time Customer Data Platform.
-solution: Campaign, Real-Time Customer Data Platform
+solution: Campaign, Campaign v8, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer

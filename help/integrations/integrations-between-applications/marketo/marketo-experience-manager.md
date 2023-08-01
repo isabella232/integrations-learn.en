@@ -1,7 +1,7 @@
 ---
 title: How to integrate Marketo Engage with AEM
 description: Integrate Adobe Experience Manager Forms (AEM Forms) with Marketo Engage streamline lead generation.
-solution: Marketo, Experience Manager, Experience Manager Forms
+solution: Marketo Engage, Experience Manager, Experience Manager Forms
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
