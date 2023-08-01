@@ -1,7 +1,7 @@
 ---
 title: Integrate Campaign with Target
 description: Learn how to integrate Campaign with Target.
-solution: Campaign v8, Campaign Classic v7, Target
+solution: Campaign, Campaign v8, Campaign Classic v7, Target
 feature: Integrations
 topic: Integrations
 role: User

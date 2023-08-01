@@ -1,7 +1,7 @@
 ---
 title: Integrate Campaign v8 with Experience Manager tutorial
 description: Learn how to connect Adobe Campaign with Adobe Experience Manager to manage email delivery templates, assets, and forms in Experience Manager.
-solution: Experience Manager, Campaign v8
+solution: Campaign, Experience Manager, Campaign v8
 feature: Integrations
 topic: Integrations
 role: Admin, Developer
