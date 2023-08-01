@@ -1,7 +1,7 @@
 ---
 title: Integrate Audience Manager with Analytics
 description: Learn how to integrate Audience Manager with Analytics. 
-solution: Analytics, Audience Manager
+solution: Audience Manager, Analytics 
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer

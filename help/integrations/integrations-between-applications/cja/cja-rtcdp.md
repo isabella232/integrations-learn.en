@@ -1,7 +1,7 @@
 ---
 title: Integrate Customer Journey Analytics with Real-Time Customer Data Platform
 description: Learn how to integrate Customer Journey Analytics with Real-Time Customer Data Platform. 
-solution: Real-Time Customer Data Platform, Customer Journey Analytics
+solution: Customer Journey Analytics, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer

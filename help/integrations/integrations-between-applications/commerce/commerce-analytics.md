@@ -1,7 +1,7 @@
 ---
 title: Integrate Commerce with Analytics
 description: Learn how to integrate Adobe Commerce with Analytics. 
-solution: Analytics, Commerce
+solution: Commerce, Analytics
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
