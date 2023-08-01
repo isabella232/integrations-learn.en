@@ -1,7 +1,7 @@
 ---
 title: How to integrate AEM with Analytics
 description: Integrate Adobe Experience Manager (AEM) with Analytics to track and analyze user behavior on your website.
-solution: Analytics, Experience Manager, Experience Manager Sites
+solution: Experience Manager, Experience Manager Sites, Analytics
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
