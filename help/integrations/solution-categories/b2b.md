@@ -29,7 +29,7 @@ Coordinate lead management, ABM, and attribution at scale across channels based 
       <li>Design and publish dynamic and interactive forms for web and mobile devices for lead generation purposes.</li>
     </ul>
   </td>
-  <td><a href= "https://experienceleague.corp.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/marketo/marketo-experience-manager.html"> Marketo Engage and Forms</a></td>
+  <td><a href= "../integrations/integrations-between-applications/marketo/marketo-experience-manager.md"> Marketo Engage and Forms</a></td>
 </tr>
 
 
