@@ -11,7 +11,7 @@ The Adobe Analytics integration with Adobe Campaign enables seamless data sharin
 
 + **Share KPI data** from Adobe Campaign to Adobe Analytics.
 + **Enrich tracking formulas** with Adobe Analytics parameters.
-+ Utilize Triggers to **send personalized emails** based on specific tracked behaviors.
++ Use Triggers to **send personalized emails** based on specific tracked behaviors.
 
 ## Common integrations
 
@@ -44,7 +44,7 @@ The Adobe Analytics integration with Adobe Campaign enables seamless data sharin
             <td><a href="../../integrations/tutorials/campaign-analytics/campaign-analytics-trigger.md" target="_blank" rel="noreferrer">Triggers</a></li>
             <td>
                 <ul>
-                    <li>Trigger transactional messages using real time event data.</li>
+                    <li>Trigger transactional messages using real-time event data.</li>
                 </ul>
             </td>
             <td>
