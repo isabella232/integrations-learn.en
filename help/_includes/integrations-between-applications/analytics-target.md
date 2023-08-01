@@ -25,16 +25,15 @@ The key benefits of integrating Adobe Analytics and Adobe Target (A4T) are:
     </thead>
     <tbody>
         <tr>
-            <td>Analytics and Target</td>
+            <td rowspan="2">Analytics and Target</td>
             <td>
                 <ul>
-                    <li>at.js library for Target</li>
-                    <li>appmeasurement.js library for Analytics</li>
+                    <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">at.js library for Target and appmeasurement.js library for Analytics</a></li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">You want to use Adobe Analytics' rich reporting features to show and analyze Target activity results.</a></li>
+                    <li>You want to use Adobe Analytics' rich reporting features to show and analyze Target activity results.</li>
                 </ul>
             </td>
             <td>
@@ -45,15 +44,14 @@ The key benefits of integrating Adobe Analytics and Adobe Target (A4T) are:
             </td>
         </tr>
         <tr>
-            <td>Analytics and Target</td>
             <td>
                 <ul>
-                    <li>Experience Cloud Core Services</li>
+                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html" target="_blank" rel="noreferrer">Experience Cloud Core Services</a></li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html" target="_blank" rel="noreferrer">You want to share Analytics segments to Target audiences.</a></li>
+                    <li>You want to share Analytics segments to Target audiences.</li>
                 </ul>
             </td>
             <td>
