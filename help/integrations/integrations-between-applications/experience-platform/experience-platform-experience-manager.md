@@ -1,7 +1,7 @@
 ---
 title: Integrate Adobe Experience Platform with AEM
 description: Learn how to integrate Adobe Experience Manager (AEM) with Experience Platform.
-solution: Experience Manager, Experience Manager Sites, Experience Platform
+solution: Experience Platform, Experience Manager, Experience Manager Sites
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
