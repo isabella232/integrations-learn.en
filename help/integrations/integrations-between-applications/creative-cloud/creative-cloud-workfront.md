@@ -1,6 +1,7 @@
 ---
 title: Set up self-serve downloads on Creative Cloud Desktop
 description: Create a tutorial to guide users who want to set up self-serve downloads on Creative Cloud Desktop.
+solution: Creative Cloud, Workfront
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer

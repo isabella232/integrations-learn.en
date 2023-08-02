@@ -1,7 +1,7 @@
 ---
 title: Integrate Campaign with Analytics
 description: Learn how to integrate Campaign with Adobe Analytics.
-solution: Campaign, Analytics, Campaign Standard
+solution: Campaign, Campaign Standard, Analytics
 feature: Integrations
 topic: Integrations
 role: User, Developer
