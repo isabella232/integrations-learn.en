@@ -19,14 +19,14 @@ Build multi-channel commerce experiences on a single platform with our flexible,
 
  <tr>
    <td><strong>Digital storefront</strong></td>
-   <td><ul>
+   <td><ul style="margin-top: 0;">
           <li>Single-store deployment on AEM
           <li>Global multi-store deployment on AEM</li>
           <li>Multi-system deployment with AEM</li>
         </ul>
   </td>
    <td>
-    <ul>
+    <ul style="margin-top: 0;">
           <li>Authorable web storefront.</li>
           <li>Enhanced product browsing experience.</li>
           <li>Efficient filtering for extensive catalogs.</li>
@@ -43,7 +43,7 @@ Build multi-channel commerce experiences on a single platform with our flexible,
  <tr>
    <td><strong>Data analysis and reporting<strong></td>
    <td>Evaluate commerce store conversion funnel, orders, revenue, and visit and visitor metrics.</td>
-   <td><ul><li>Data Insights and reporting on commerce activity.</li><li>Gain comprehensive insights into Adobe Commerce store performance using key metrics and dimensions you select.</li></ul></td>
+   <td><ul style="margin-top: 0;"><li>Data Insights and reporting on commerce activity.</li><li>Gain comprehensive insights into Adobe Commerce store performance using key metrics and dimensions you select.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">Commerce and Analytics</a></td>
  </tr>
  </table>

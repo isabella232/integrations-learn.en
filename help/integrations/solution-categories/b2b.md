@@ -25,7 +25,7 @@ Coordinate lead management, ABM, and attribution at scale across channels based 
   <td>Use the captured data from form submissions for lead generation, customer segmentation, and personalized marketing campaigns.
   </td>
   <td>
-    <ul>
+    <ul style="margin-top: 0;">
       <li>Design and publish dynamic and interactive forms for web and mobile devices for lead generation purposes.</li>
     </ul>
   </td>
@@ -37,7 +37,7 @@ Coordinate lead management, ABM, and attribution at scale across channels based 
   <td rowspan="1"><strong>Expand audiences for personalization and ad platforms</strong><br/></td> 
   <td>Use Analytics data for creating audiences to use in personalization or remarketing tactics.</td>
   <td>
-    <ul>
+    <ul style="margin-top: 0;">
       <li>Perform digital audience targeting and personalization on devices or supported advertising channels.</li>
       <li>Optimize known customer landing pages and anonymous experiences based on device and behavioral attributes.</li>
       <li>Activate audiences to known channels, such as email and SMS.</li>
@@ -51,7 +51,7 @@ Coordinate lead management, ABM, and attribution at scale across channels based 
   <td> Use Real-time Customer Profiles and centrally-managed Platform segments to personalize messaging across web, mobile, and other digital channels.
   </td>
   <td>
-    <ul>
+    <ul style="margin-top: 0;">
       <li>Content personalization for known visitors</li>
       <li>Increase loyalty sign-up and participation</li>
       <li>Identify and egnage custoemrs at risk of churn</li>
@@ -67,7 +67,7 @@ Coordinate lead management, ABM, and attribution at scale across channels based 
     Use Real-time Customer Profiles and centrally-managed Platform segments to personalize messaging across web, mobile, and other digital channels
   </td>
   <td>
-    <ul>
+    <ul style="margin-top: 0;">
       <li>Content personalization for known visitors</li>
     </ul>
   </td>
