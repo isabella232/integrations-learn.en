@@ -1,7 +1,7 @@
 ---
 title: Integrate Campaign Standard with Analytics using Triggers  tutorial
 description: Learn how to configure and use triggers for transactional messaging.
-solution: Analytics, Campaign Standard
+solution: Analytics, Campaign, Campaign Standard
 feature: Integrations
 topic: Integrations
 role: Admin
@@ -24,7 +24,7 @@ Learn how to Adobe Experience Platform Data Collection and add the required prop
 
 >[!IMPORTANT]
 >
-> Launch is now the Tags feature of Adobe Experience Platform. It can be found under **Adobe Experience Platform Data Collections**.  
+> Launch is now the Tags feature of Adobe Experience Platform. It can be found under **Adobe Experience Platform Data Collections**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
 
