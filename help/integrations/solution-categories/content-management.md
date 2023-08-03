@@ -24,7 +24,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         Adobe Campaign.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Send marketing emails created with AEM</li>
         </ul>
       </td>
@@ -44,7 +44,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         AEM Assets and Adobe Analytics.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Track and analyze asset performance</li>
           <li>Analyze user engagement</li>
           <li>Optimize content strategy</li>
@@ -66,7 +66,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         by integrating AEM Assets and Workfront.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Enterprise asset management</li>
           <li>Streamline asset workflows</li>
           <li>Enhance collaboration and approval</li>
@@ -88,7 +88,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         integrating AEM Assets Essentials and Workfront.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Streamline departmental asset management</li>
           <li>Enable collaboration and approval</li>
           <li>Improve project management</li>
@@ -109,7 +109,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         applications
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Upload and share assets across multiple platforms</li>
           <li>Kick off asset review and approval processes</li>
           <li>View asset requirements and feedback across platforms</li>
@@ -131,7 +131,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         targeting and personalization of marketing campaigns.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Create profiles and collect additional information.</li>
           <li>Subscriptions</li>
         </ul>
@@ -152,7 +152,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         selections/preferences.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>
             Present a dynamically generated NDA based on the data from an AEM
             Forms submission for signing
@@ -175,7 +175,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         customer segmentation, and personalized marketing campaigns.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>
             Design and publish dynamic and interactive forms for web and mobile
             devices for lead generation purposes.
@@ -198,7 +198,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         capabilities of Adobe Target.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Add personalized offers to customer emails</li>
         </ul>
       </td>
@@ -218,7 +218,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         in personalization and re-marketing tactics.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>
             Perform anonymous digital audience targeting and personalization on
             the website, mobile app, or on supported advertising channels
@@ -249,7 +249,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         re-marketing tactics.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>
             Perform digital audience targeting and personalization on devices or
             supported advertising channels.
@@ -277,7 +277,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         utilizing AEM Headless in conjunction with Adobe Target.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Single-page application personalization.</li>
           <li>Personalized API responses.</li>
           <li>Targeted content delivery.A/B test variations.</li>
@@ -298,7 +298,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         and Adobe Target for personalization.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>AEM web site personalization</li>
           <li>Optimize user experiences.</li>
           <li>A/B test variations.</li>
@@ -320,7 +320,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         to personalize messaging across web, mobile, and other digital channels
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Content personalization for known visitors</li>
           <li>Increase loyalty sign-up and participation</li>
           <li>Identify and engage customers at risk of churn</li>
@@ -343,7 +343,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
         to personalize messaging across web, mobile, and other digital channels
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Content personalization for known visitors</li>
         </ul>
       </td>

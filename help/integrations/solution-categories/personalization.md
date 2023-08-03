@@ -24,7 +24,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
         selections/preferences.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>
             Present a dynamically generated NDA based on the data from an AEM
             Forms submission for signing
@@ -48,7 +48,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
         Analytics.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Analyze top/bottom converting paths</li>
           <li>Analyze channel engagement and conversion</li>
           <li>Understand top viewed content</li>
@@ -74,7 +74,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
         generating comprehensive reports through Adobe Analytics.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Show A/B test results in rich analytics reports</li>
         </ul>
       </td>
@@ -94,7 +94,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
         capabilities of Adobe Target.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Add personalized offers to customer emails</li>
         </ul>
       </td>
@@ -116,7 +116,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
         use in personalization and re-marketing tactics.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>
             Perform anonymous digital audience targeting and personalization on
             the website, mobile app, or on supported advertising channels
@@ -147,7 +147,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
         re-marketing tactics.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>
             Perform digital audience targeting and personalization on devices or
             supported advertising channels.
@@ -175,7 +175,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
         utilizing AEM Headless in conjunction with Adobe Target.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>SPA and mobile app personalization</li>
           <li>Personalized API responses.</li>
           <li>Targeted content delivery.</li>
@@ -197,7 +197,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
         and Adobe Target for personalization.
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>AEM web site personalization.</li>
           <li>Personalize website content.</li>
           <li>Optimize user experiences.</li>
@@ -220,7 +220,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
         to personalize messaging across web, mobile, and other digital channels
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Content personalization for known visitors</li>
           <li>Increase loyalty sign-up and participation</li>
           <li>Identify and engage customers at risk of churn</li>
@@ -243,7 +243,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
         to personalize messaging across web, mobile, and other digital channels
       </td>
       <td>
-        <ul>
+        <ul style="margin-top: 0;">
           <li>Content personalization for known visitors</li>
         </ul>
       </td>
