@@ -29,12 +29,12 @@ Integrating AEM and Experience Platform provides several benefits, including:
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience Manager and Experience Platform</a></td>
             <td>Experience Platform Web SDK</td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>When you want to position AEM to be able to integrate with other Adobe Experience Cloud applications.</li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                   <li>Integrate with Adobe Analytics.</li>
                   <li>Integrate with Adobe Target.</li>
                   <li>Integrate with Adobe Journey Optimizer.</li>

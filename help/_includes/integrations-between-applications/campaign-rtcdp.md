@@ -27,16 +27,16 @@ The Adobe Campaign Managed Cloud Service Destination and Source connectors allow
             <td><a href="../../integrations/tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">Campaign v8 with Real-Time CDP</a></td>
             <td>Campaign Managed Cloud Services Destination</td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>Leverage the Adobe Experience Platform powered smart segments and activate them using Adobe Campaign to reach out to their customer base across the different channels supported by Adobe Campaign.</li>
                 </ul>
             </td>
             <td>
-              <ul>
+              <ul style="margin-top: 0;">
                 <li>Drive personalization and engagement through a single accessible view of the customer.</li>
                 <li>Integrate email, mobile, online and offline channels into the customer journey.</li>
                 <li>Automate the delivery of meaningful and timely messages and offers.</li>
-               <ul>
+               <ul style="margin-top: 0;">
             </td>
         </tr>              
     </tbody>          

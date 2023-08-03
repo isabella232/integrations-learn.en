@@ -27,17 +27,17 @@ The key benefits of integrating Adobe Analytics and Adobe Target (A4T) are:
         <tr>
             <td rowspan="2">Analytics and Target</td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">at.js library for Target and appmeasurement.js library for Analytics</a></li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>You want to use Adobe Analytics' rich reporting features to show and analyze Target activity results.</li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>Personalized content recommendations.</li>
                     <li>A/B Testing and optimization.</li>
                 </ul>
@@ -45,17 +45,17 @@ The key benefits of integrating Adobe Analytics and Adobe Target (A4T) are:
         </tr>
         <tr>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html" target="_blank" rel="noreferrer">Experience Cloud Core Services</a></li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>You want to share Analytics segments to Target audiences.</li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>Sharing converter segments</li>
                     <li>Sharing content affinity segments</li>
                     <li>Segment-based targeted experiences.</li>

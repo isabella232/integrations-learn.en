@@ -31,13 +31,13 @@ By integrating these platforms, businesses can leverage data for exceptional cus
             <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html" target="_blank" rel="noreferrer">Analytics and Experience Platform</a></td>
             <td>Experience Platform source connector</td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>When you need to ingest historical Analytics data into Experience Platform from your report suites.</li>
                     <li>When data availability to the Customer Profile can be between 2-30 minutes from the time of data collection, and availability to the Data Lake is up to 90 minutes.</li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>Deeper insights for tailored experiences.</li>
                     <li>Data-driven strategies boost effectiveness.</li>
                     <li>Consistent messaging across touchpoints.</li>

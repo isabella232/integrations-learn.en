@@ -31,12 +31,12 @@ Integrating Adobe Analytics and Adobe Experience Manager provides several benefi
             <td rowspan="2">Analytics with AEM Sites</a></td>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Experience Platform Web SDK tags extension or alloy.js</a></td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>When you want to report on AEM web analytics data in Adobe Analytics, and position yourself to integrate with other Experience Cloud applications in the future.</li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                   <li>Tracking website traffic.</li>
                   <li>Monitoring marketing campaigns.</li>
                   <li>Optimizing website performance.</li>
@@ -46,14 +46,14 @@ Integrating Adobe Analytics and Adobe Experience Manager provides several benefi
         <tr>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html" target="_blank" rel="noreferrer">Adobe Analytics tags extension or AppMeasurement.js</a></td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>When you want to report on AEM web analytics data in Adobe Analytics, and are not planning on using the data in other Experience Cloud applications</li>
                     <li>When you use AEM's Core Components for trackable web site elements.</li>
                     <li>When you want minimal configuration and implementation.</li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                   <li>Tracking website traffic.</li>
                   <li>Monitoring marketing campaigns.</li>
                   <li>Optimizing website performance.</li>
@@ -64,12 +64,12 @@ Integrating Adobe Analytics and Adobe Experience Manager provides several benefi
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html" target="_blank" rel="noreferrer">Analytics and AEM Forms as Cloud Service</a></td>
             <td>Experience Platform Web SDK tags extension</td>
             <td>
-              <ul>
+              <ul style="margin-top: 0;">
                 <li>When you want to report digital form analytics data in Adobe Analytics, and position yourself to integrate with other Experience Cloud applications in the future.</li>
               </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                   <li>Track form submission.</li>
                   <li>Monitoring form field errors.</li>
                   <li>Report on submitted form field values.</li>

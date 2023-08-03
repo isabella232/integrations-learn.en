@@ -34,19 +34,19 @@ Overall, integrating Adobe Commerce and Adobe Analytics creates a powerful e-com
                 <a href="../../integrations/tutorials/analytics-commerce/analytics-commerce.md" target="_blank" rel="noreferrer">Commerce and Analytics</a>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>Module installed in Adobe Commerce</li>
                     <li>Adobe Experience Edge Network</li>
                     <li>Adobe Client Data Layer (ACDL)</li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>When you want to ensure a complete picture of your store's overall performance. More specifically, the Adobe Analytics integration for Commerce Intelligence provides functionality for merchants to start combining their Adobe Commerce and Adobe Analytics data sets.</li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>Track online orders</li>
                     <li>Track cart actions, conversions and other metrics.</li>
                 </ul>

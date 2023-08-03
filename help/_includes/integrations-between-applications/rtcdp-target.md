@@ -27,12 +27,12 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
         <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Real-Time CDP and Target</a></td>
         <td>Web SDK and Target destination</td>
         <td>
-            <ul style="margin-top: 0px !important">
+            <ul style="margin-top: 0;">
                 <li>When you want the fastest sharing of data from Real-Time CDP to Target for your website.</li>
             </ul>
         </td>
         <td>
-            <ul style="margin-top: 0px !important">
+            <ul style="margin-top: 0;" >
                 <li>Supports same-page and next-page personalization.</li>
             </ul>
         </td>
@@ -41,12 +41,12 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
         <td>Real-Time CDP and Target</a></td>
         <td><a href="../../integrations/tutorials/rtcdp-target/mobile-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Mobile SDK and Target destination</td>
         <td>
-            <ul>
+            <ul style="margin-top: 0;">
                 <li>When you want the fastest sharing of data from Real-Time CDP to Targe for your mobile application.</li>
             </ul>
         </td>
         <td>
-            <ul>
+            <ul style="margin-top: 0;">
                 <li>Supports same-view and next-view personalization.</li>
             </ul>
         </td>
@@ -55,12 +55,12 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
         <td>Real-Time CDP and Target</td>
         <td><a href="../../integrations/tutorials/rtcdp-target/atjs-and-target-destination.md" target="_blank" rel="noreferrer">at.js and Target destination</a></td>
         <td>
-            <ul>
+            <ul style="margin-top: 0;">
                 <li>When next-session personalization is sufficient on your website.</li>
             </ul>
         </td>
         <td>
-            <ul>
+            <ul style="margin-top: 0;">
                 <li>Supports next-session personalization.</li>
             </ul>
         </td>
