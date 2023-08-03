@@ -31,13 +31,13 @@ AEM and Workfront streamline content production, allowing seamless import of man
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront and AEM Assets Essentials</a></td>
             <td>Native connector</td>
             <td>
-              <ul>
+              <ul style="margin-top: 0;">
                 <li>When you require basic DAM functionalities and a simplified user interface for managing digital assets.</li>
                 <li>When your team is less experienced or only needs basic DAM capabilities.</li>
               </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                   <li>Managing work-in-progress asset creation.</li>
                   <li>Increasing content velocity.</li>
                 </ul>
@@ -47,14 +47,14 @@ AEM and Workfront streamline content production, allowing seamless import of man
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">Workfront and AEM Assets</a></td>
             <td>Enhanced connector</td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>When your organization has already implemented AEM Assets.</li>
                     <li>When require advanced Workfront functionalities such as custom fields, statuses, and workflows.</li>
                     <li>When you have experienced DAM users and require advanced DAM capabilities.</li>
                 </ul>
             </td>
             <td>
-              <ul>
+              <ul style="margin-top: 0;">
                 <li>Managing final assets.</li>
                 <li>Sharing assets across the enterprise.</li>
               </ul>

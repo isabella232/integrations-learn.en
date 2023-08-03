@@ -33,14 +33,14 @@ Integrating Adobe Audience Manager and Adobe Real-Time CDP offers these benefits
             </td>
             <td>Adobe Audience Manager data connector</td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>Seeking real-time synchronization of customer data.</li>
                     <li>Needing enhanced customer profiling and personalization.</li>
                     <li>Wanting to activate audience segments for targeted marketing.</li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>Real-time data synchronization for up-to-date insights.</li>
                     <li>Enhanced customer profiling for personalization.</li>
                     <li>Segment creation and activation for targeted marketing.</li>

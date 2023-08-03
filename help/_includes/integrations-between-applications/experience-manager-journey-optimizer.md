@@ -31,12 +31,12 @@ Integrating Adobe Journey Optimizer & Experience Manager Assets Essentials has s
             <td><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" target="_blank" rel="noreferrer">Journey Optimizer and AEM Assets Essentials</a></td>
             <td>Asset Essentials is embedded in Journey Optimizer</td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>When you need to create marketing collateral using approved brand assets.</li>
                 </ul>
             </td>
             <td>
-                <ul><li>Create content with Journey Optimizer's Email Designer.</li></ul>
+                <ul style="margin-top: 0;"><li>Create content with Journey Optimizer's Email Designer.</li></ul>
             </td>
         </tr>        
     </tbody>          

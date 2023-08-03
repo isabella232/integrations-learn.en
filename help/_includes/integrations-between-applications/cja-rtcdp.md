@@ -33,7 +33,7 @@ Overall, the integration of Adobe Customer Journey Analytics and Adobe Real-Time
             <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html" target="_blank" rel="noreferrer">Customer Journey Analytics and Real-Time CDP</a></td>
             <td>Adobe Experience Platform</td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>When you want to use a Customer Journey Analytics (CJA) audience for a journey in Adobe Journey Optimizer.</li>
                     <li>When you want to export the CJA audience to a 3rd-party through an Experience Platform destination.</li>
                     <li>When you want to enrich the Real-Time customer profile with useful attributes derived from event-based data in CJA.</li>
@@ -42,7 +42,7 @@ Overall, the integration of Adobe Customer Journey Analytics and Adobe Real-Time
                 </ul>
             </td>
             <td>
-              <ul>
+              <ul style="margin-top: 0;">
                 <li>Real-time personalized experiences across channels.</li>
                 <li>Comprehensive 360-degree customer journey analysis and activation.</li>
                 <li>Data-driven marketing decisions based on unified customer data.</li>

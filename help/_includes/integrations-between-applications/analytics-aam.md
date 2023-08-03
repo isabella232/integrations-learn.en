@@ -37,12 +37,12 @@ Overall, this integration brings together valuable data and audience insights. I
             </td>
             <td>Adobe Analytics tags extension or AppMeasurement.js with server-side forwarding enabled</td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>When you want to send Adobe Analytics data to Audience Manager to create segments that can be shared with other Adobe Experience Cloud destinations, people-based destinations, or other device-based and custom destinations supported by Audience Manager.</li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>Share segments to ad platforms that include behavioral attributes collected in Analytics.</li>
                     <li>Enrich segments with Analytics data to create high-value, cross-channel segments to use in on-site targeting.</li>
                     <li>Layer in Analytics data to segments keyed off on hashed identifiers, such as email, to use in social media platforms.</li>
@@ -55,12 +55,12 @@ Overall, this integration brings together valuable data and audience insights. I
             </td>
             <td>Adobe Analytics tags extension or AppMeasurement.js with server-side forwarding enabled</td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>When you want to share segments from Audience Manager to Analytics to inform audience discovery, segmentation, and optimization.</li>
                 </ul>
             </td>
             <td>
-                <ul>
+                <ul style="margin-top: 0;">
                     <li>Use Audience Manager segments that include demographic data from third-party providers in Analytics reports.</li>
                     <li>Use Audience Manager segments that include campaign data from ad servers in Analytics reports.</li>
                     <li>Use Audience Manager segments that include onboarded CRM data in Analytics reports.</li>
