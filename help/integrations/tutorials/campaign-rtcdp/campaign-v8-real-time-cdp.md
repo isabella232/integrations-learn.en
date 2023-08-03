@@ -1,7 +1,7 @@
 ---
 title: Integrate Campaign v8 with Real-Time CDP tutorial
-description: Learn how to integrate Campaign v8 with Real-Time CDP. 
-solution: Campaign v8, Real-Time Customer Data Platform
+description: Learn how to integrate Campaign v8 with Real-Time CDP.
+solution: Campaign, Campaign v8, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
