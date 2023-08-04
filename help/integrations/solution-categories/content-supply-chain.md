@@ -5,6 +5,8 @@ description: Plan, create, personalize, and publish content.
 
 # Content supply chain
 
+Plan, create, personalize, and publish unforgettable content for every customer - at the speed of now.
+Meeting real-time customer expectations for personalized experiences requires more digital content than ever. With Adobe's creative workflow and asset management solutions, your teams can plan, create, and deliver personalized content at scale that supports the customer journey at every touchpoint.
 
 <table>
  <thead>
@@ -30,7 +32,6 @@ description: Plan, create, personalize, and publish content.
   <td>Coordinate and measure the creation and use of assets in an enterprise by integrating AEM Assets and Workfront.</td>
   <td>
     <ul style="margin-top: 0;">
-    Enterprise asset management Streamline asset workflowsEnhance collaboration and approvalImprove project management
       <li>Enterprise asset management</li>
       <li>Streamline asset workflows</li>
       <li>Enhance collaboration and approval</li>

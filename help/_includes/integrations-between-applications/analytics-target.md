@@ -33,7 +33,7 @@ The key benefits of integrating Adobe Analytics and Adobe Target (A4T) are:
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>You want to use Adobe Analytics' rich reporting features to show and analyze Target activity results.</li>
+                    <li>You want to use Adobe Analytics rich reporting features to show and analyze Target activity results.</li>
                 </ul>
             </td>
             <td>

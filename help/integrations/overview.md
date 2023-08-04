@@ -1,10 +1,31 @@
 ---
-title: solutions configurations
-description: DX product integration guides
+title: Integration configurations for Adobe Digital Experience products
+description: Common integration configurations for Adobe Digital Experience products.
 ---
 
-# Common configurations
+# Integration configurations for Adobe Experience Cloud applications
 
-Adobe enterprise business solutions meet today's biggest competitive challenges. From real-time personalization to comprehensive content management, our digital business solutions help you deliver better customer experiences - and  more.
+Whether you are familiar with Adobe Digital Experience products and you are unsure of the best way to integrate them, or you know the business objectives you are trying to achieve but are unsure of which Adobe Digital Experience products you should use, you have found the right place.
 
-The section provides common configurations for the Adobe enterprise products, grouped by solution categories.  There are many ways to configure the Adobe products depending on your environment.  The intent of this page is to provide guidance that you can deploy as-is or modify to meet the needs of your environment.
+You will find the most common Adobe Digital Experience product integrations organized by solution and Adobe product.  
+
+There are many ways to configure the Adobe products, and this is highly dependant on your environment.  Use these tutorials and videos as guidance to deploy as-is or modify to meet the needs of your environment.
+
+<table>
+<tr>
+   <td>
+      <a  href="./integrations-between-applications/overview.md"><img alt="By product" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
+      <div><strong><a href="./integrations-between-applications/overview.md">By product</a></strong></div>
+      <p>
+        You know which Adobe products to use and you want to learn how to integrate them.
+      </p>
+   </td>
+   <td>
+      <a  href="./solution-categories/overview.md"><img alt="By solution" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
+      <div><strong><a href="./solution-categories/overview.md">By solution</a></strong></div>
+      <p>
+        You know the business problem you are trying to solve, but are unsure which Adobe products to use.
+      </p>
+   </td>  
+</tr>
+</table>

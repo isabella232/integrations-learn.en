@@ -7,7 +7,7 @@
 
 {{real-time-cdp-description}}
 
-Integrating Adobe Analytics with Adobe Real-Time Customer Data Platform (RTCDP) can offer several benefits for businesses looking to enhance their customer experiences and marketing efforts. Here are some of the key advantages:
+Integrating Adobe Analytics with Adobe Real-Time Customer Data Platform (Real-Time CDP) can offer several benefits for businesses looking to enhance their customer experiences and marketing efforts. Here are some of the key advantages:
 
 + **Enhanced audience targeting & personalization**: Precise marketing on devices & channels, tailored messages for optimized engagement.
 + **Improved landing page optimization**: Tailored experiences based on device & behavior, enhancing user satisfaction & conversion.

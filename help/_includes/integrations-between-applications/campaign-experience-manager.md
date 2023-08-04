@@ -10,7 +10,7 @@
 The key benefits of integrating Adobe Campaign and AEM Experience Manager are:
 
 + **Manage the content of your email deliveries** and your forms directly in Adobe Experience Manager.
-+ **Use brand assets while editing an email or a landing page** in Adobe Campaign, from Adobe Experience Manager Assets .
++ **Use brand assets while editing an email or a landing page** in Adobe Campaign, from Adobe Experience Manager Assets.
 
 ## Common integrations
 

@@ -17,7 +17,7 @@ Adobe Experience Platform is the most powerful, flexible, and open system on the
 
 * Customer Journey Analytics
 * Journey Optimizer
-* Real-Time Customer Data Platform (CDP)
+* Real-Time Customer Data Platform (Real-Time CDP)
 
 Integrating applications with _multiple Platform-native applications_ share many common steps, but different use cases are unlocked depending on which applications you are integrating. The integration content is therefore organized by application. See the resources below.
 
@@ -27,7 +27,7 @@ Integrating applications with _multiple Platform-native applications_ share many
 * [with Analytics](../cja/customer-journey-analytics-analytics.md)
 * [with Real-Time CDP](../cja/cja-rtcdp.md)
 
-## Real-Time Customer Data Platform (CDP)
+## Real-Time Customer Data Platform
 
 * [with Analytics](../rtcdp/rtcdp-analytics.md)
 * [with Audience Manager](../rtcdp/rtcdp-aam.md)

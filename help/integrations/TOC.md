@@ -18,6 +18,7 @@ mini-toc-levels: 1
   + [Data insights & activation](./solution-categories/data-insights.md)
   + [Personalization at scale](./solution-categories/personalization.md)
 + Application integrations{#integrations-between-applications}
+  + [Overview](./integrations-between-applications/overview.md)
   + [!DNL Acrobat Sign]{#acrobat-sign}
     + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
   + [!DNL Analytics]{#analytics}
