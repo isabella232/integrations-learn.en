@@ -7,7 +7,7 @@ feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Custo
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/integrations-learn.en
-hide: yes
+index: yes
 ---
 
 # Metadata for internal use
