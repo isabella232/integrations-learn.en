@@ -14,18 +14,24 @@ There are many ways to configure the Adobe products, and this is highly dependan
 <table>
 <tr>
    <td>
-      <a  href="./integrations-between-applications/overview.md"><img alt="By product" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
-      <div><strong><a href="./integrations-between-applications/overview.md">By product</a></strong></div>
-      <p>
-        You know which Adobe products to use and you want to learn how to integrate them.
-      </p>
+      <a  href="./integrations-between-applications/overview.md"><img alt="By application" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
    </td>
    <td>
       <a  href="./solution-categories/overview.md"><img alt="By solution" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
-      <div><strong><a href="./solution-categories/overview.md">By solution</a></strong></div>
-      <p>
-        You know the business problem you are trying to solve, but are unsure which Adobe products to use.
-      </p>
    </td>  
 </tr>
+<tr>
+   <td>
+      <div><strong><a href="./integrations-between-applications/overview.md">By application</a></strong></div>
+      <p>
+        You know which Adobe applications to use and you want to learn how to integrate them.
+      </p>
+   </td>
+   <td>
+      <div><strong><a href="./solution-categories/overview.md">By solution</a></strong></div>
+      <p>
+        You know the business problem you are trying to solve, but are unsure which Adobe applications to use.
+      </p>
+   </td>  
+</tr>   
 </table>
