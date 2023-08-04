@@ -1,6 +1,6 @@
 ---
-title: Integration configurations for Adobe Digital Experience products - by solution
-description: Common integration configurations for Adobe Digital Experience products organized by solutions.
+title: Integration configurations for Adobe Experience Cloud applications - by solution
+description: Common integration configurations for Adobe Experience Cloud applications organized by solutions.
 ---
 
 # Integration configurations for Adobe Experience Cloud applications - by solution

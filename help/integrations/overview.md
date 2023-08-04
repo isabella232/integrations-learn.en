@@ -1,15 +1,15 @@
 ---
-title: Integration configurations for Adobe Digital Experience products
-description: Common integration configurations for Adobe Digital Experience products.
+title: Integration configurations for Adobe Experience Cloud applications
+description: Common integration configurations for Adobe Experience Cloud applications.
 ---
 
 # Integration configurations for Adobe Experience Cloud applications
 
-Whether you are familiar with Adobe Digital Experience products and you are unsure of the best way to integrate them, or you know the business objectives you are trying to achieve but are unsure of which Adobe Digital Experience products you should use, you have found the right place.
+Whether you are familiar with Adobe Experience Cloud applications and you are unsure of the best way to integrate them, or you know the business objectives you are trying to achieve but are unsure of which Adobe Experience Cloud applications you should use, you have found the right place.
 
-You will find the most common Adobe Digital Experience product integrations organized by solution and Adobe product.  
+You will find the most common Adobe Experience Cloud application integrations organized by solution and Adobe application.  
 
-There are many ways to configure the Adobe products, and this is highly dependant on your environment.  Use these tutorials and videos as guidance to deploy as-is or modify to meet the needs of your environment.
+There are many ways to configure the Adobe applications, and this is highly dependant on your environment.  Use these tutorials and videos as guidance to deploy as-is or modify to meet the needs of your environment.
 
 <table>
 <tr>
