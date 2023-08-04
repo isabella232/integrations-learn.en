@@ -9,14 +9,15 @@ Build multi-channel commerce experiences on a single platform with our flexible,
 
 <table>
 
- <!--  ROW 1  -->
- <tr>
-  <td><strong>Integration use case</strong></td>
-  <td><strong>Integration Description</strong></td>
-  <td><strong>Examples</strong></td>
-  <td><strong>Experience Cloud applications</strong></td>
- </tr>
-
+ <thead>
+    <tr>
+      <th>Use case</th>
+      <th>Description</th>
+      <th>Examples</th>
+      <th>Applications</th>
+    </tr>
+  </thead>
+  <tbody>
  <tr>
    <td><strong>Digital storefront</strong></td>
    <td><ul style="margin-top: 0;">
@@ -46,4 +47,5 @@ Build multi-channel commerce experiences on a single platform with our flexible,
    <td><ul style="margin-top: 0;"><li>Data Insights and reporting on commerce activity.</li><li>Gain comprehensive insights into Adobe Commerce store performance using key metrics and dimensions you select.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">Commerce and Analytics</a></td>
  </tr>
+ </tbody>
  </table>

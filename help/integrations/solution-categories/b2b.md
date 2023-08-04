@@ -12,14 +12,14 @@ Coordinate lead management, ABM, and attribution at scale across channels based 
 
  <thead>
     <tr>
-      <th>Integration use case</th>
-      <th>Integration description</th>
+      <th>Use case</th>
+      <th>Description</th>
       <th>Examples</th>
-      <th>Experience Cloud Solutions</th>
+      <th>Applications</th>
     </tr>
   </thead>
 
-
+<tbody>
 <tr>
   <td><strong>Generate leads</strong><br/></td>
   <td>Use the captured data from form submissions for lead generation, customer segmentation, and personalized marketing campaigns.
@@ -73,4 +73,5 @@ Coordinate lead management, ABM, and attribution at scale across channels based 
   </td>
   <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-Time Customer Data Platform and Target</a></td>
 </tr>
+</tbody>
 </table>

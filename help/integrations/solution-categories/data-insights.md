@@ -9,14 +9,16 @@ Drive real-time personalization on any channel using online and offline data ins
 
 <table>
 
- <!--  ROW 1  -->
- <tr>
-  <td><b>Integration use case</b></td>
-  <td><b>Description</b></td>
-  <td><b>Examples</b></td>
-  <td><b>Application integrations</b></td>
- </tr>
+ <thead>
+    <tr>
+      <th>Use case</th>
+      <th>Description</th>
+      <th>Examples</th>
+      <th>Applications</th>
+    </tr>
+  </thead>
 
+<tbody>
   <!--  ROW 2  -->
  <tr>
    <td rowspan="8"><b>Data analysis and reporting</b></td>
@@ -153,4 +155,5 @@ Drive real-time personalization on any channel using online and offline data ins
         </ul></td>
    <td><a href="../integrations-between-applications/experience-manager/experience-manager-analytics.md" target="_blank" rel="noopener noreferrer">AEM Assets and Analytics</a></td>
  </tr>
+ </tbody>
  </table>

@@ -9,16 +9,15 @@ Develop real-time customer profiles by pulling data from all sources to create p
 
 
 <table>
-
-<thead>
+ <thead>
     <tr>
-      <th>Integration use case</th>
-      <th>Integration description</th>
+      <th>Use case</th>
+      <th>Description</th>
       <th>Examples</th>
-      <th>Experience Cloud Solutions</th>
+      <th>Applications</th>
     </tr>
   </thead>
-
+  <tbody>
 <tr>
   <td><strong>Create marketing collateral using brand assets</strong><br></td>
   <td>Build and oversee email marketing content and templates using AEM and Adobe Campaign.</td>
@@ -111,6 +110,6 @@ Develop real-time customer profiles by pulling data from all sources to create p
   </td>
   <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-Time Customer Data Platform and Target</a></td>
 </tr>
-
+</tbody>
 </table>
 

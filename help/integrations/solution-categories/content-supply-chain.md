@@ -11,17 +11,18 @@ Meeting real-time customer expectations for personalized experiences requires mo
 <table>
  <thead>
     <tr>
-      <th>Integration use case</th>
-      <th>Integration description</th>
+      <th>Use case</th>
+      <th>Description</th>
       <th>Examples</th>
-      <th>Experience Cloud Solutions</th>
+      <th>Applications</th>
     </tr>
   </thead>
+  <tbody>
 <tr>
   <td><strong>Create marketing collateral using brand assets</strong><br/></td>
   <td>Build and oversee email marketing content and templates using AEM and Adobe Campaign.</td>
   <td>
-    <ul style="margin-top: 0;">
+    <ul>
       <li>Send marketing emails created with AEM</li>
     </ul>    
   </td>
@@ -68,7 +69,7 @@ Meeting real-time customer expectations for personalized experiences requires mo
   <td>Leverage brand assets efficiently across marketing campaigns by utilizing Adobe Experience Manager Assets Essentials and Adobe Journey Optimizer.
   </td>
   <td>
-    <ul style="margin-top: 0;">
+    <ul>
       <li>Create and manage assets in Experience Manager Assets Essentials and use them in Adobe Journey Optimizer</li>
     </ul>
   </td>
@@ -79,11 +80,12 @@ Meeting real-time customer expectations for personalized experiences requires mo
   <td>Augment native Campaign capabilities to capture customer data for targeting and personalization of marketing campaigns.
   </td>
   <td>
-    <ul style="margin-top: 0;">
+    <ul>
       <li>Create profiles and collect additional information. </li>
       <li>Subscriptions</li>
     </ul>
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms and Campaign Standard</a></td>
 </tr>
+</tbody>
 </table>

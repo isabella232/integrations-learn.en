@@ -8,12 +8,12 @@ description: Make personalized experiences part of every moment.
 Within today's highly competitive and digitally-driven landscape, customers have come to expect experiences tailored to their unique preferences and needs. Harnessing the capabilities of Adobe Experience Cloud enables us to gather and analyze extensive customer data, providing invaluable insights into behaviors, interests, and preferences. This deep understanding facilitates the delivery of personalized experiences across various touchpoints, ensuring meaningful and engaging interactions. Leveraging the power of Adobe Experience Cloud unlocks the full potential of personalization, fostering stronger customer connections, nurturing loyalty, and driving business growth.
 
 <table>
-  <thead>
+ <thead>
     <tr>
-      <th>Integration use case</th>
-      <th>Integration description</th>
+      <th>Use case</th>
+      <th>Description</th>
       <th>Examples</th>
-      <th>Experience Cloud applications</th>
+      <th>Applications</th>
     </tr>
   </thead>
   <tbody>

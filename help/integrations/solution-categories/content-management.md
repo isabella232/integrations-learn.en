@@ -8,12 +8,12 @@ description:  In today's digital landscape, catering to the unique needs of mill
  In today's digital landscape, catering to the unique needs of millions of customers presents a significant challenge. However, it doesn't end there. To succeed, you must also possess the ability to rapidly discover, connect, and repurpose approved assets across various devices and channels on a global scale. Furthermore, gaining insights into the effectiveness of these experiences is crucial. Discover a comprehensive solution that empowers you to effortlessly create personalized digital experiences, while ensuring real-time asset management, efficient delivery, and performance evaluation.
 
  <table>
-  <thead>
+ <thead>
     <tr>
-      <th>Integration use case</th>
-      <th>Integration description</th>
+      <th>Use case</th>
+      <th>Description</th>
       <th>Examples</th>
-      <th>Experience Cloud Solutions</th>
+      <th>Applications</th>
     </tr>
   </thead>
   <tbody>
