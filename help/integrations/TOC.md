@@ -11,7 +11,7 @@ mini-toc-levels: 1
 + Solution categories{#solution-categories}
   + [Overview](./solution-categories/overview.md)
   + [B2B marketing](./solution-categories/b2b.md)
-  + [[!DNL Commerce]](./solution-categories/commerce.md)
+  + [Commerce](./solution-categories/commerce.md)
   + [Content management](./solution-categories/content-management.md)
   + [Content supply chain](./solution-categories/content-supply-chain.md)
   + [Customer journeys](./solution-categories/customer-journeys.md)
@@ -42,7 +42,7 @@ mini-toc-levels: 1
     + [[!DNL Experience Manager]](./integrations-between-applications/commerce/commerce-experience-manager.md)
   + [!DNL Creative Cloud]{#creative-cloud}
     + [[!DNL Workfront]](./integrations-between-applications/creative-cloud/creative-cloud-workfront.md)
-  + [!DNL Customer Journey [!DNL Analytics]]{#cja}
+  + [!DNL Customer Journey Analytics]{#cja}
     + [[!DNL Analytics]](./integrations-between-applications/cja/customer-journey-analytics-analytics.md)
     + [[!DNL Real-Time CDP]](./integrations-between-applications/cja/cja-rtcdp.md)
   + [!DNL Experience Manager]{#experience-manager}
