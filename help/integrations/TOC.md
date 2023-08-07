@@ -21,38 +21,38 @@ mini-toc-levels: 1
   + [Overview](./integrations-between-applications/overview.md)
   + [!DNL Acrobat Sign]{#acrobat-sign}
     + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
-  + [!DNL [!DNL Analytics]]{#analytics}
+  + [!DNL Analytics]{#analytics}
     + [[!DNL Audience Manager]](./integrations-between-applications/analytics/analytics-aam.md)
-    + [[!DNL [!DNL Campaign]]](./integrations-between-applications/analytics/analytics-campaign.md)
-    + [[!DNL [!DNL Commerce]]](./integrations-between-applications/analytics/analytics-commerce.md)
-    + [[!DNL Customer Journey [!DNL Analytics]]](./integrations-between-applications/analytics/analytics-customer-journey-analytics.md)
+    + [[!DNL Campaign]](./integrations-between-applications/analytics/analytics-campaign.md)
+    + [[!DNL Commerce]](./integrations-between-applications/analytics/analytics-commerce.md)
+    + [[!DNL Customer Journey Analytics]](./integrations-between-applications/analytics/analytics-customer-journey-analytics.md)
     + [[!DNL Experience Manager]](./integrations-between-applications/analytics/analytics-experience-manager.md)
     + [[!DNL Real-Time CDP]](./integrations-between-applications/analytics/analytics-rtcdp.md)
-    + [[!DNL [!DNL Target]]](./integrations-between-applications/analytics/analytics-target.md)
+    + [[!DNL Target]](./integrations-between-applications/analytics/analytics-target.md)
   + [!DNL Audience Manager]{#aam}
-    + [[!DNL [!DNL Analytics]]](./integrations-between-applications/aam/aam-analytics.md)
+    + [[!DNL Analytics]](./integrations-between-applications/aam/aam-analytics.md)
     + [[!DNL Real-Time CDP]](./integrations-between-applications/aam/aam-rtcdp.md)
-  + [!DNL [!DNL Campaign]] {#campaign}
-    + [[!DNL [!DNL Analytics]]](./integrations-between-applications/campaign/campaign-analytics.md)
+  + [!DNL Campaign]{#campaign}
+    + [[!DNL Analytics]](./integrations-between-applications/campaign/campaign-analytics.md)
     + [[!DNL Experience Manager]](./integrations-between-applications/campaign/campaign-experience-manager.md)
     + [[!DNL Real-Time CDP]](./integrations-between-applications/campaign/campaign-rtcdp.md)
-    + [[!DNL [!DNL Target]]](./integrations-between-applications/campaign/campaign-target.md)
-  + [!DNL [!DNL Commerce]]{#commerce}
-    + [[!DNL [!DNL Analytics]]](./integrations-between-applications/commerce/commerce-analytics.md)
+    + [[!DNL Target]](./integrations-between-applications/campaign/campaign-target.md)
+  + [!DNL Commerce]{#commerce}
+    + [[!DNL Analytics]](./integrations-between-applications/commerce/commerce-analytics.md)
     + [[!DNL Experience Manager]](./integrations-between-applications/commerce/commerce-experience-manager.md)
   + [!DNL Creative Cloud]{#creative-cloud}
     + [[!DNL Workfront]](./integrations-between-applications/creative-cloud/creative-cloud-workfront.md)
   + [!DNL Customer Journey [!DNL Analytics]]{#cja}
-    + [[!DNL [!DNL Analytics]]](./integrations-between-applications/cja/customer-journey-analytics-analytics.md)
+    + [[!DNL Analytics]](./integrations-between-applications/cja/customer-journey-analytics-analytics.md)
     + [[!DNL Real-Time CDP]](./integrations-between-applications/cja/cja-rtcdp.md)
   + [!DNL Experience Manager]{#experience-manager}
     + [[!DNL Acrobat Sign]](./integrations-between-applications/experience-manager/experience-manager-acrobat-sign.md)
-    + [[!DNL [!DNL Analytics]]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
-    + [[!DNL [!DNL Campaign]]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
-    + [[!DNL [!DNL Commerce]]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
+    + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
+    + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
+    + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
     + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
     + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
-    + [[!DNL [!DNL Target]]](./integrations-between-applications/experience-manager/experience-manager-target.md)
+    + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
     + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
   + Experience [!DNL Platform]{#experience-platform}
      + [Overview](./integrations-between-applications/experience-platform/platform.md)
@@ -61,14 +61,14 @@ mini-toc-levels: 1
   + [!DNL Marketo Engage]{#marketo}
     + [[!DNL Experience Manager]](./integrations-between-applications/marketo/marketo-experience-manager.md)
   + [!DNL Real-Time CDP]{#rtcdp}
-    + [[!DNL [!DNL Analytics]]](./integrations-between-applications/rtcdp/rtcdp-analytics.md)
+    + [[!DNL Analytics]](./integrations-between-applications/rtcdp/rtcdp-analytics.md)
     + [[!DNL Audience Manager]](./integrations-between-applications/rtcdp/rtcdp-aam.md)
-    + [[!DNL [!DNL Campaign]]](./integrations-between-applications/rtcdp/rtcdp-campaign.md)
-    + [[!DNL Customer Journey [!DNL Analytics]]](./integrations-between-applications/rtcdp/rtcdp-cja.md)
-    + [[!DNL [!DNL Target]]](./integrations-between-applications/rtcdp/rtcdp-target.md)
-  + [!DNL [!DNL Target]]{#target}
-    + [[!DNL [!DNL Analytics]]](./integrations-between-applications/target/target-analytics.md)
-    + [[!DNL [!DNL Campaign]]](./integrations-between-applications/target/target-campaign.md)
+    + [[!DNL Campaign]](./integrations-between-applications/rtcdp/rtcdp-campaign.md)
+    + [[!DNL Customer Journey Analytics]](./integrations-between-applications/rtcdp/rtcdp-cja.md)
+    + [[!DNL Target]](./integrations-between-applications/rtcdp/rtcdp-target.md)
+  + [!DNL Target]{#target}
+    + [[!DNL Analytics]](./integrations-between-applications/target/target-analytics.md)
+    + [[!DNL Campaign]](./integrations-between-applications/target/target-campaign.md)
     + [[!DNL Experience Manager]](./integrations-between-applications/target/target-experience-manager.md)
     + [[!DNL Real-Time CDP]](./integrations-between-applications/target/target-rtcdp.md)
   + Workfront{#experience-manager}
