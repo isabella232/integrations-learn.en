@@ -3,7 +3,7 @@ title: Integration configurations for Adobe Experience Cloud applications - by p
 description: Common integration configurations for Adobe Experience Cloud applications organized by product.
 ---
 
-# Integration configurations for Adobe Experience Cloud applications - by application
+# Integration configurations for Adobe Experience Cloud products - by product
 
 This section will help anyone with Adobe product familiarity wanting to create business value by integrating multiple Adobe products.  We have organized many common integration configurations for the Adobe enterprise products and have mapped them to real-world use cases.  There are many ways to configure the Adobe products depending on your environment.  The intent of this section is to provide guidance that you can deploy as-is or modify to meet the needs of your environment.
 
