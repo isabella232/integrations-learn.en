@@ -7,7 +7,7 @@ description: Common integration configurations for Adobe Experience Cloud produc
 
 Whether you are familiar with Adobe Experience Cloud products and you are unsure of the best way to integrate them, or you know the business objectives you are trying to achieve but are unsure of which Adobe Experience Cloud products you should use, you have found the right place.
 
-You will find the most common Adobe Experience Cloud product integrations organized by business solution and Adobe products.  
+You will find the most common Adobe Experience Cloud product integrations organized by business solution and Adobe product.  
 
 There are many ways to configure the Adobe products, and this is highly dependent on your environment.  Use these tutorials and videos as guidance to deploy as-is or modify to meet the needs of your environment.
 
