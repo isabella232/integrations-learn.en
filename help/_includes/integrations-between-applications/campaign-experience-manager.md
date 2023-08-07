@@ -1,16 +1,16 @@
 ---
 ---
 
-# Campaign and Experience Manager integration
+# [!DNL Campaign] and Experience Manager integration
 
 {{campaign-description}}
 
 {{experience-manager-description}}
 
-The key benefits of integrating Adobe Campaign and AEM Experience Manager are:
+The key benefits of integrating Adobe [!DNL Campaign] and AEM Experience Manager are:
 
 + **Manage the content of your email deliveries** and your forms directly in Adobe Experience Manager.
-+ **Use brand assets while editing an email or a landing page** in Adobe Campaign, from Adobe Experience Manager Assets.
++ **Use brand assets while editing an email or a landing page** in Adobe [!DNL Campaign], from Adobe Experience Manager Assets.
 
 ## Common integrations
 
@@ -25,7 +25,7 @@ The key benefits of integrating Adobe Campaign and AEM Experience Manager are:
     </thead>
     <tbody>
         <tr>
-            <td><a href="../../integrations/tutorials/campaign-aem/campaign-v8-with-experience-manager.md" target="_blank" rel="noreferrer">Campaign v7/v8 with AEM Assets 6.5</a></td>
+            <td><a href="../../integrations/tutorials/campaign-aem/campaign-v8-with-experience-manager.md" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 with AEM Assets 6.5</a></td>
             <td>AEM integration package</td>
             <td>
                 <ul style="margin-top: 0;">
@@ -41,7 +41,7 @@ The key benefits of integrating Adobe Campaign and AEM Experience Manager are:
             </td>
         </tr>      
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html" target="_blank" rel="noreferrer">Campaign Standard with AEM Forms</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html" target="_blank" rel="noreferrer">[!DNL Campaign] Standard with AEM Forms</a></td>
             <td>Adobe IMS access tokens</td>
             <td>
                 <ul style="margin-top: 0;">

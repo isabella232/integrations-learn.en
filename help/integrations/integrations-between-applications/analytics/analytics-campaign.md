@@ -1,6 +1,6 @@
 ---
-title: Integrate Analytics with Campaign
-description: Learn how to integrate Adobe Analytics with Campaign.
+title: Integrate [!DNL Analytics] with [!DNL Campaign]
+description: Learn how to integrate Adobe [!DNL Analytics] with [!DNL Campaign].
 solution: Analytics, Campaign, Campaign Standard
 feature: Integrations
 topic: Integrations
@@ -13,6 +13,6 @@ badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-05-19
 ---
 
-# Integrate Analytics with Campaign
+# Integrate [!DNL Analytics] with [!DNL Campaign]
 
 {{$include /help/_includes/integrations-between-applications/analytics-campaign.md}}

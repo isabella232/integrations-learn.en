@@ -1,13 +1,13 @@
 ---
 ---
 
-# Integrate Adobe Analytics with Customer Journey Analytics
+# Integrate Adobe [!DNL Analytics] with Customer Journey [!DNL Analytics]
 
 {{analytics-description}}
 
 {{customer-journey-analytics-description}}
 
-Integrating Adobe Analytics with Customer Journey Analytics offers key benefits:
+Integrating Adobe [!DNL Analytics] with Customer Journey [!DNL Analytics] offers key benefits:
 
 + **Comprehensive insights** into customer behaviors and preferences.
 + **Seamless cross-channel tracking** for a holistic view.
@@ -28,28 +28,28 @@ Integrating Adobe Analytics with Customer Journey Analytics offers key benefits:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2">Analytics and Customer Journey Analytics</td>
-            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Experience Platform source connector</a></td>
+            <td rowspan="2">[!DNL Analytics] and Customer Journey [!DNL Analytics]</td>
+            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Experience [!DNL Platform] source connector</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Recommended approach for customers who have already implemented Adobe Analytics, and want the fastest way to ingest this data into Experience Platform to use in Customer Journey Analytics.</li>
+                    <li>Recommended approach for customers who have already implemented Adobe [!DNL Analytics], and want the fastest way to ingest this data into Experience [!DNL Platform] to use in Customer Journey [!DNL Analytics].</li>
                     <li>When data availability to the Customer Profile can be between 2-30 minutes from the time of data collection, and availability to the Data Lake is up to 90 minutes.</li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Straightforward, user-interface initiated workflow.</li>
-                    <li>Mapping user-interface to copy Analytics props and eVars to new XDM fields.</li>
-                    <li>Fastest way to get value from the Real-Time Customer Profile and Customer Journey Analytics.</li>
+                    <li>Mapping user-interface to copy [!DNL Analytics] props and eVars to new XDM fields.</li>
+                    <li>Fastest way to get value from the Real-Time Customer Profile and Customer Journey [!DNL Analytics].</li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-edge.md" target="_blank" rel="noreferrer">Experience Platform Edge</a></td>
+            <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-edge.md" target="_blank" rel="noreferrer">Experience [!DNL Platform] Edge</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Recommended approach for new Analytics implementations or when you want to implement a long-term strategy.</li>
-                    <li>Sends data directly from a device to the Experience Platform using the AEP Web SDK, AEP Mobile SDK, or the Edge Network Server API.</li>
+                    <li>Recommended approach for new [!DNL Analytics] implementations or when you want to implement a long-term strategy.</li>
+                    <li>Sends data directly from a device to the Experience [!DNL Platform] using the AEP Web SDK, AEP Mobile SDK, or the Edge Network Server API.</li>
                 </ul>
             </td>
             <td>

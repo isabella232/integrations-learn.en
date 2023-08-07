@@ -1,15 +1,15 @@
 ---
 ---
 
-# Campaign and Real-Time Customer Data Platform 
+# [!DNL Campaign] and Real-Time Customer Data [!DNL Platform] 
 
 {{campaign-description}}
 
 {{real-time-cdp-description}}
 
-The Adobe Campaign Managed Cloud Service Destination and Source connectors allow seamless integration between Adobe Campaign and Adobe Experience Platform. Key benefits of this integration include:
+The Adobe [!DNL Campaign] Managed Cloud Service Destination and Source connectors allow seamless integration between Adobe [!DNL Campaign] and Adobe Experience [!DNL Platform]. Key benefits of this integration include:
 
-+ **Augment Campaign's segmentation capabilities** with those Adobe Experience Platform powered audiences, and activate that data in Campaign.
++ **Augment [!DNL Campaign]'s segmentation capabilities** with those Adobe Experience [!DNL Platform] powered audiences, and activate that data in [!DNL Campaign].
 
 ## Common integrations
 
@@ -24,11 +24,11 @@ The Adobe Campaign Managed Cloud Service Destination and Source connectors allow
     </thead>
     <tbody>
         <tr>
-            <td><a href="../../integrations/tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">Campaign v8 with Real-Time CDP</a></td>
-            <td>Campaign Managed Cloud Services Destination</td>
+            <td><a href="../../integrations/tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">[!DNL Campaign] v8 with Real-Time CDP</a></td>
+            <td>[!DNL Campaign] Managed Cloud Services Destination</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Leverage the Adobe Experience Platform powered smart segments and activate them using Adobe Campaign to reach out to their customer base across the different channels supported by Adobe Campaign.</li>
+                    <li>Leverage the Adobe Experience [!DNL Platform] powered smart segments and activate them using Adobe [!DNL Campaign] to reach out to their customer base across the different channels supported by Adobe [!DNL Campaign].</li>
                 </ul>
             </td>
             <td>

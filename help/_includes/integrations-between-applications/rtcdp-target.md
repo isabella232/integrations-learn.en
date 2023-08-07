@@ -1,17 +1,17 @@
 ---
 ---
 
-# Adobe Real-Time Customer Data Platform and Adobe Target integration
+# Adobe Real-Time Customer Data [!DNL Platform] and Adobe [!DNL Target] integration
 
 {{real-time-cdp-description}}
 
 {{target-description}}
 
-Integrating Real-Time CDP with Target gives you the ability to personalize content using known customer data. Also, the data governance and consent capabilities of Real-Time CDP help ensure you are using that known customer data responsibly and adhering to legal, contractual, and regulatory restrictions as well as respecting customer preferences. Key benefits of integrating Real-Time CDP and Target include:
+Integrating Real-Time CDP with [!DNL Target] gives you the ability to personalize content using known customer data. Also, the data governance and consent capabilities of Real-Time CDP help ensure you are using that known customer data responsibly and adhering to legal, contractual, and regulatory restrictions as well as respecting customer preferences. Key benefits of integrating Real-Time CDP and [!DNL Target] include:
 
 + **Deliver personalized experiences** on your website and mobile apps.
-+ **Share segments and profile attributes** from Adobe Real-Time CDP to Adobe Target.
-+ **Target content** to segments and display attribute values.
++ **Share segments and profile attributes** from Adobe Real-Time CDP to Adobe [!DNL Target].
++ **[!DNL Target] content** to segments and display attribute values.
 
 <table>
     <thead>
@@ -24,11 +24,11 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
     </thead>
     <tbody>
     <tr>
-        <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Real-Time CDP and Target</a></td>
-        <td>Web SDK and Target destination</td>
+        <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Real-Time CDP and [!DNL Target]</a></td>
+        <td>Web SDK and [!DNL Target] destination</td>
         <td>
             <ul style="margin-top: 0;">
-                <li>When you want the fastest sharing of data from Real-Time CDP to Target for your website.</li>
+                <li>When you want the fastest sharing of data from Real-Time CDP to [!DNL Target] for your website.</li>
             </ul>
         </td>
         <td>
@@ -38,11 +38,11 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
         </td>
     </tr>
     <!--<tr>
-        <td>Real-Time CDP and Target</a></td>
-        <td><a href="../../integrations/tutorials/rtcdp-target/mobile-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Mobile SDK and Target destination</td>
+        <td>Real-Time CDP and [!DNL Target]</a></td>
+        <td><a href="../../integrations/tutorials/rtcdp-target/mobile-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Mobile SDK and [!DNL Target] destination</td>
         <td>
             <ul style="margin-top: 0;">
-                <li>When you want the fastest sharing of data from Real-Time CDP to Target for your mobile application.</li>
+                <li>When you want the fastest sharing of data from Real-Time CDP to [!DNL Target] for your mobile application.</li>
             </ul>
         </td>
         <td>
@@ -52,8 +52,8 @@ Integrating Real-Time CDP with Target gives you the ability to personalize conte
         </td>
     </tr>           
     <tr>
-        <td>Real-Time CDP and Target</td>
-        <td><a href="../../integrations/tutorials/rtcdp-target/atjs-and-target-destination.md" target="_blank" rel="noreferrer">at.js and Target destination</a></td>
+        <td>Real-Time CDP and [!DNL Target]</td>
+        <td><a href="../../integrations/tutorials/rtcdp-target/atjs-and-target-destination.md" target="_blank" rel="noreferrer">at.js and [!DNL Target] destination</a></td>
         <td>
             <ul style="margin-top: 0;">
                 <li>When next-session personalization is sufficient on your website.</li>

@@ -1,6 +1,6 @@
 ---
-title: Integrate Analytics with Customer Journey Analytics
-description: Learn how to integrate Analytics with Customer Journey Analytics. 
+title: Integrate [!DNL Analytics] with Customer Journey [!DNL Analytics]
+description: Learn how to integrate [!DNL Analytics] with Customer Journey [!DNL Analytics]. 
 solution: Analytics, Customer Journey Analytics
 feature: Integrations
 topic: Integrations
@@ -13,6 +13,6 @@ badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-29
 ---
 
-# Integrate Analytics with Customer Journey Analytics
+# Integrate [!DNL Analytics] with Customer Journey [!DNL Analytics]
 
 {{$include /help/_includes/integrations-between-applications/analytics-customer-journey-analytics.md}}

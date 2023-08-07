@@ -20,13 +20,13 @@ Meeting real-time customer expectations for personalized experiences requires mo
   <tbody>
 <tr>
   <td><strong>Create marketing collateral using brand assets</strong><br/></td>
-  <td>Build and oversee email marketing content and templates using AEM and Adobe Campaign.</td>
+  <td>Build and oversee email marketing content and templates using AEM and Adobe [!DNL Campaign].</td>
   <td>
     <ul>
       <li>Send marketing emails created with AEM</li>
     </ul>    
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">Campaign and AEM</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] and AEM</a></td>
 </tr>
 <tr>
   <td rowspan="3"><strong>Manage asset creation</strong><br/></td>
@@ -77,7 +77,7 @@ Meeting real-time customer expectations for personalized experiences requires mo
 </tr>
 <tr>
   <td><strong>Capture customer data</strong><br/></td>
-  <td>Augment native Campaign capabilities to capture customer data for targeting and personalization of marketing campaigns.
+  <td>Augment native [!DNL Campaign] capabilities to capture customer data for targeting and personalization of marketing campaigns.
   </td>
   <td>
     <ul>
@@ -85,7 +85,7 @@ Meeting real-time customer expectations for personalized experiences requires mo
       <li>Subscriptions</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms and Campaign Standard</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms and [!DNL Campaign] Standard</a></td>
 </tr>
 </tbody>
 </table>

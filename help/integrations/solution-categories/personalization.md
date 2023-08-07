@@ -44,8 +44,8 @@ Within today's highly competitive and digitally-driven landscape, customers have
       <td rowspan="2"><strong>Data analysis and reporting</strong></td>
       <td>
         Analyze behavioral data from digital experiences <br />Use Adobe
-        Analytics behavioral data in Analysis Workspace in Customer Journey
-        Analytics.
+        [!DNL Analytics] behavioral data in Analysis Workspace in Customer Journey
+        [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -63,15 +63,15 @@ Within today's highly competitive and digitally-driven landscape, customers have
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Analytics and Customer Journey Analytics</a
+          >[!DNL Analytics] and Customer Journey [!DNL Analytics]</a
         >
       </td>
     </tr>
     <tr>
       <td>
         Reporting for personalization activities<br />Analyze optimization
-        testing outcomes, including A/B testing, by utilizing Adobe Target and
-        generating comprehensive reports through Adobe Analytics.
+        testing outcomes, including A/B testing, by utilizing Adobe [!DNL Target] and
+        generating comprehensive reports through Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -83,7 +83,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
           href="../integrations-between-applications/analytics/analytics-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Analytics and Target</a
+          >[!DNL Analytics] and [!DNL Target]</a
         >
       </td>
     </tr>
@@ -91,7 +91,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
       <td><strong>Personalize email deliveries</strong></td>
       <td>
         Personalize email deliveries with dynamic content by leveraging the
-        capabilities of Adobe Target.
+        capabilities of Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -103,7 +103,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
           href="../integrations-between-applications/campaign//campaign-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Campaign and Target</a
+          >[!DNL Campaign] and [!DNL Target]</a
         >
       </td>
     </tr>
@@ -137,13 +137,13 @@ Within today's highly competitive and digitally-driven landscape, customers have
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager and Real-Time Customer Data Platform</a
+          >Audience Manager and Real-Time Customer Data [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Use Analytics data for creating audiences to use in personalization or
+        Use [!DNL Analytics] data for creating audiences to use in personalization or
         re-marketing tactics.
       </td>
       <td>
@@ -164,7 +164,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Analytics and Real-Time Customer Data Platform</a
+          >[!DNL Analytics] and Real-Time Customer Data [!DNL Platform]</a
         >
       </td>
     </tr>
@@ -172,13 +172,13 @@ Within today's highly competitive and digitally-driven landscape, customers have
       <td rowspan="2"><strong>Personalize web experiences</strong></td>
       <td>
         Customize single-page application (SPA) experiences by effectively
-        utilizing AEM Headless in conjunction with Adobe Target.
+        utilizing AEM Headless in conjunction with Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>SPA and mobile app personalization</li>
           <li>Personalized API responses.</li>
-          <li>Targeted content delivery.</li>
+          <li>[!DNL Target]ed content delivery.</li>
           <li>A/B test variations.</li>
         </ul>
       </td>
@@ -187,14 +187,14 @@ Within today's highly competitive and digitally-driven landscape, customers have
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Headless and Target</a
+          >AEM Headless and [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
         Deliver tailored website experiences by effectively utilizing AEM Sites
-        and Adobe Target for personalization.
+        and Adobe [!DNL Target] for personalization.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -209,14 +209,14 @@ Within today's highly competitive and digitally-driven landscape, customers have
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Sites and Target</a
+          >AEM Sites and [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>Personalize digital experiences</strong></td>
       <td>
-        Use Real-time Customer Profiles and centrally-managed Platform segments
+        Use Real-time Customer Profiles and centrally-managed [!DNL Platform] segments
         to personalize messaging across web, mobile, and other digital channels
       </td>
       <td>
@@ -232,14 +232,14 @@ Within today's highly competitive and digitally-driven landscape, customers have
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-Time Customer Data Platform and Target</a
+          >Real-Time Customer Data [!DNL Platform] and [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>Enhance lead generation</strong></td>
       <td>
-        Use Real-time Customer Profiles and centrally-managed Platform segments
+        Use Real-time Customer Profiles and centrally-managed [!DNL Platform] segments
         to personalize messaging across web, mobile, and other digital channels
       </td>
       <td>
@@ -252,7 +252,7 @@ Within today's highly competitive and digitally-driven landscape, customers have
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-Time Customer Data Platform and Target</a
+          >Real-Time Customer Data [!DNL Platform] and [!DNL Target]</a
         >
       </td>
     </tr>

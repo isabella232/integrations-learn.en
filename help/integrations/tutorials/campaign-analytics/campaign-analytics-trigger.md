@@ -1,5 +1,5 @@
 ---
-title: Integrate Campaign Standard with Analytics using Triggers  tutorial
+title: Integrate [!DNL Campaign] Standard with [!DNL Analytics] using Triggers  tutorial
 description: Learn how to configure and use triggers for transactional messaging.
 solution: Analytics, Campaign, Campaign Standard
 feature: Integrations
@@ -14,17 +14,17 @@ last-substantial-update: 2023-07-26
 badgeIntegration: label="Integration" type="positive"
 ---
 
-# Integrate Campaign Standard with Analytics using Triggers tutorial
+# Integrate [!DNL Campaign] Standard with [!DNL Analytics] using Triggers tutorial
 
 Learn how to configure and use triggers for transactional messaging.
 
-## Configure Adobe Experience Platform Data Collection for triggers
+## Configure Adobe Experience [!DNL Platform] Data Collection for triggers
 
-Learn how to Adobe Experience Platform Data Collection and add the required properties to your website to test your configuration.
+Learn how to Adobe Experience [!DNL Platform] Data Collection and add the required properties to your website to test your configuration.
 
 >[!IMPORTANT]
 >
-> Launch is now the Tags feature of Adobe Experience Platform. It can be found under **Adobe Experience Platform Data Collections**.
+> Launch is now the Tags feature of Adobe Experience [!DNL Platform]. It can be found under **Adobe Experience [!DNL Platform] Data Collections**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
 
@@ -34,9 +34,9 @@ Learn how to configure triggers in the Experience Cloud.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
 
-## Create a trigger in Campaign Standard
+## Create a trigger in [!DNL Campaign] Standard
 
-Learn how to create a trigger event in Campaign Standard.
+Learn how to create a trigger event in [!DNL Campaign] Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
 

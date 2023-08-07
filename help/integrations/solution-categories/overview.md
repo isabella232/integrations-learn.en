@@ -18,7 +18,7 @@ This section will help anyone who has a business need but is unsure which Adobe 
     </td>
    <td>
       <a  href="./commerce.md"><img alt="commerce" src="./assets/commerce.png"/></a>
-      <div><strong><a href="./commerce.md">Commerce</a></strong></div>
+      <div><strong><a href="./commerce.md">[!DNL Commerce]</a></strong></div>
       <p>
         B2B and B2C digital commerce
       </p>
@@ -50,7 +50,7 @@ This section will help anyone who has a business need but is unsure which Adobe 
       <a  href="./data-insights.md"><img alt="Data insights and activation" src="./assets/data-insights.png"/></a>
       <div><strong><a href="./data-insights.md"> Data insights & activation</a></strong></div>
       <p>
-        Analytics and audience management
+        [!DNL Analytics] and audience management
       </p>
    </td>  
 </tr>

@@ -21,7 +21,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
       <td><strong>Create marketing collateral using brand assets</strong></td>
       <td>
         Build and oversee email marketing content and templates using AEM and
-        Adobe Campaign.
+        Adobe [!DNL Campaign].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -33,7 +33,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/campaign/campaign-experience-manager.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Campaign and AEM</a
+          >[!DNL Campaign] and AEM</a
         >
       </td>
     </tr>
@@ -41,7 +41,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
       <td><strong>Measure marketing image usage and performance</strong></td>
       <td>
         Track and analyze the effectiveness of marketing images by integrating
-        AEM Assets and Adobe Analytics.
+        AEM Assets and Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -55,7 +55,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/experience-manager/experience-manager-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Assets and Analytics</a
+          >AEM Assets and [!DNL Analytics]</a
         >
       </td>
     </tr>
@@ -127,7 +127,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
     <tr>
       <td><strong>Capture customer data</strong></td>
       <td>
-        Augment native Campaign capabilities to capture customer data for
+        Augment native [!DNL Campaign] capabilities to capture customer data for
         targeting and personalization of marketing campaigns.
       </td>
       <td>
@@ -141,7 +141,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/experience-manager/experience-manager-campaign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms and Campaign Standard</a
+          >AEM Forms and [!DNL Campaign] Standard</a
         >
       </td>
     </tr>
@@ -195,7 +195,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
       <td><strong>Personalize email deliveries</strong></td>
       <td>
         Personalize email deliveries with dynamic content by leveraging the
-        capabilities of Adobe Target.
+        capabilities of Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -207,7 +207,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/campaign/campaign-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Campaign and Target</a
+          >[!DNL Campaign] and [!DNL Target]</a
         >
       </td>
     </tr>
@@ -239,13 +239,13 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager and Real-Time Customer Data Platform</a
+          >Audience Manager and Real-Time Customer Data [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Use Analytics data for creating audiences to use in personalization or
+        Use [!DNL Analytics] data for creating audiences to use in personalization or
         re-marketing tactics.
       </td>
       <td>
@@ -266,7 +266,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/analytics/analytics-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Analytics and Real-Time Customer Data Platform</a
+          >[!DNL Analytics] and Real-Time Customer Data [!DNL Platform]</a
         >
       </td>
     </tr>    
@@ -274,13 +274,13 @@ description:  In today's digital landscape, catering to the unique needs of mill
       <td rowspan="2"><strong>Personalize web experiences</strong></td>
       <td>
         Customize single-page application (SPA) experiences by effectively
-        utilizing AEM Headless in conjunction with Adobe Target.
+        utilizing AEM Headless in conjunction with Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>Single-page application personalization.</li>
           <li>Personalized API responses.</li>
-          <li>Targeted content delivery.A/B test variations.</li>
+          <li>[!DNL Target]ed content delivery.A/B test variations.</li>
         </ul>
       </td>
       <td>
@@ -288,14 +288,14 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Headless and Target</a
+          >AEM Headless and [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
         Deliver tailored website experiences by effectively utilizing AEM Sites
-        and Adobe Target for personalization.
+        and Adobe [!DNL Target] for personalization.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -309,14 +309,14 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Sites and Target</a
+          >AEM Sites and [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>Personalize digital experiences</strong></td>
       <td>
-        Use Real-time Customer Profiles and centrally-managed Platform segments
+        Use Real-time Customer Profiles and centrally-managed [!DNL Platform] segments
         to personalize messaging across web, mobile, and other digital channels
       </td>
       <td>
@@ -332,14 +332,14 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-Time Customer Data Platform and Target</a
+          >Real-Time Customer Data [!DNL Platform] and [!DNL Target]</a
         >
       </td>
     </tr>     
     <tr>
       <td><strong>Enhance lead generation</strong></td>
       <td>
-        Use Real-time Customer Profiles and centrally-managed Platform segments
+        Use Real-time Customer Profiles and centrally-managed [!DNL Platform] segments
         to personalize messaging across web, mobile, and other digital channels
       </td>
       <td>
@@ -352,7 +352,7 @@ description:  In today's digital landscape, catering to the unique needs of mill
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-Time Customer Data Platform and Target</a
+          >Real-Time Customer Data [!DNL Platform] and [!DNL Target]</a
         >
       </td>
     </tr>

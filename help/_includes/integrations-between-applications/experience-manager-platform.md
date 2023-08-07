@@ -1,13 +1,13 @@
 ---
 ---
 
-# Experience Manager and Adobe Experience Platform
+# Experience Manager and Adobe Experience [!DNL Platform]
 
 {{experience-manager-description}}
 
 {{experience-platform-description}}
 
-Integrating AEM and Experience Platform provides several benefits, including:
+Integrating AEM and Experience [!DNL Platform] provides several benefits, including:
 
 + **Data ingestion**: Ingest and unify data from various sources for a holistic customer view.
 + **Customer profiles**: Create unified profiles with behavioral, transactional, and demographic data.
@@ -26,8 +26,8 @@ Integrating AEM and Experience Platform provides several benefits, including:
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience Manager and Experience Platform</a></td>
-            <td>Experience Platform Web SDK</td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience Manager and Experience [!DNL Platform]</a></td>
+            <td>Experience [!DNL Platform] Web SDK</td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>When you want to position AEM to be able to integrate with other Adobe Experience Cloud applications.</li>
@@ -35,8 +35,8 @@ Integrating AEM and Experience Platform provides several benefits, including:
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                  <li>Integrate with Adobe Analytics.</li>
-                  <li>Integrate with Adobe Target.</li>
+                  <li>Integrate with Adobe [!DNL Analytics].</li>
+                  <li>Integrate with Adobe [!DNL Target].</li>
                   <li>Integrate with Adobe Journey Optimizer.</li>
                 </ul>
             </td>

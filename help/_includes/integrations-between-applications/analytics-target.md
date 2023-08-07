@@ -1,18 +1,18 @@
 ---
 ---
 
-# Analytics and Target integration
+# [!DNL Analytics] and [!DNL Target] integration
 
 {{analytics-description}}
 
 {{target-description}}
 
-The key benefits of integrating Adobe Analytics and Adobe Target (A4T) are:
+The key benefits of integrating Adobe [!DNL Analytics] and Adobe [!DNL Target] (A4T) are:
 
-+ **Data-driven personalization**: Use Analytics for targeted activities in Adobe Target, enhancing personalization strategies.
-+ **Unified reporting**: A4T integration combines Target and Analytics reports for comprehensive analysis.
-+ **Optimized targeting**: Base decisions on Analytics data for precise audience segmentation and content optimization.
-+ **Shared audiences**: Use Analytics to create detailed segments, and share them to Target to use as audiences for testing.
++ **Data-driven personalization**: Use [!DNL Analytics] for targeted activities in Adobe [!DNL Target], enhancing personalization strategies.
++ **Unified reporting**: A4T integration combines [!DNL Target] and [!DNL Analytics] reports for comprehensive analysis.
++ **Optimized targeting**: Base decisions on [!DNL Analytics] data for precise audience segmentation and content optimization.
++ **Shared audiences**: Use [!DNL Analytics] to create detailed segments, and share them to [!DNL Target] to use as audiences for testing.
 
 <table>
     <thead>
@@ -25,15 +25,15 @@ The key benefits of integrating Adobe Analytics and Adobe Target (A4T) are:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2">Analytics and Target</td>
+            <td rowspan="2">[!DNL Analytics] and [!DNL Target]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">at.js library for Target and appmeasurement.js library for Analytics</a></li>
+                    <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">at.js library for [!DNL Target] and appmeasurement.js library for [!DNL Analytics]</a></li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>You want to use Adobe Analytics rich reporting features to show and analyze Target activity results.</li>
+                    <li>You want to use Adobe [!DNL Analytics] rich reporting features to show and analyze [!DNL Target] activity results.</li>
                 </ul>
             </td>
             <td>
@@ -51,7 +51,7 @@ The key benefits of integrating Adobe Analytics and Adobe Target (A4T) are:
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>You want to share Analytics segments to Target audiences.</li>
+                    <li>You want to share [!DNL Analytics] segments to [!DNL Target] audiences.</li>
                 </ul>
             </td>
             <td>

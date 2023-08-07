@@ -1,13 +1,13 @@
 ---
 ---
 
-# Customer Journey Analytics and Real-Time Customer Data Platform (Real-Time CDP) integration
+# Customer Journey [!DNL Analytics] and Real-Time Customer Data [!DNL Platform] (Real-Time CDP) integration
 
 {{customer-journey-analytics-description}}
 
 {{real-time-cdp-description}}
 
-Key benefits of integrating Adobe Customer Journey Analytics and Adobe Real-Time CDP include\:
+Key benefits of integrating Adobe Customer Journey [!DNL Analytics] and Adobe Real-Time CDP include\:
 
 + **360-Degree customer view**: Combines data for a unified customer journey view, understanding interactions and preferences.
 + **Real-time personalization**: Delivers relevant experiences instantly with Adobe Real-Time CDP.
@@ -15,7 +15,7 @@ Key benefits of integrating Adobe Customer Journey Analytics and Adobe Real-Time
 + **Seamless data activation**: Streamlines data activation, enabling personalized experiences across channels.
 + **Enhanced marketing attribution**: Accurately attributes touchpoint impact, improving ROI measurement and optimization.
 
-Overall, the integration of Adobe Customer Journey Analytics and Adobe Real-Time CDP empowers businesses to provide exceptional customer experiences, drive customer engagement, and make informed marketing decisions based on comprehensive, real-time customer insights.
+Overall, the integration of Adobe Customer Journey [!DNL Analytics] and Adobe Real-Time CDP empowers businesses to provide exceptional customer experiences, drive customer engagement, and make informed marketing decisions based on comprehensive, real-time customer insights.
 
 ## Common integrations
 
@@ -30,12 +30,12 @@ Overall, the integration of Adobe Customer Journey Analytics and Adobe Real-Time
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html" target="_blank" rel="noreferrer">Customer Journey Analytics and Real-Time CDP</a></td>
-            <td>Adobe Experience Platform</td>
+            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html" target="_blank" rel="noreferrer">Customer Journey [!DNL Analytics] and Real-Time CDP</a></td>
+            <td>Adobe Experience [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>When you want to use a Customer Journey Analytics (CJA) audience for a journey in Adobe Journey Optimizer.</li>
-                    <li>When you want to export the CJA audience to a 3rd-party through an Experience Platform destination.</li>
+                    <li>When you want to use a Customer Journey [!DNL Analytics] (CJA) audience for a journey in Adobe Journey Optimizer.</li>
+                    <li>When you want to export the CJA audience to a 3rd-party through an Experience [!DNL Platform] destination.</li>
                     <li>When you want to enrich the Real-Time customer profile with useful attributes derived from event-based data in CJA.</li>
                     <li>Doing all this with minimal latency after publishing the audience to Real-Time CDP.</li>
                     <li>When you want to publish one-time audiences or recurring audiences.</li>

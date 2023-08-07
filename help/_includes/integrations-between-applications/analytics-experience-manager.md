@@ -1,18 +1,18 @@
 ---
 ---
 
-# Analytics and Experience Manager integration
+# [!DNL Analytics] and Experience Manager integration
 
 {{analytics-description}}
 
 {{experience-manager-description}}
 
-Integrating Adobe Analytics and Adobe Experience Manager provides several benefits, including:
+Integrating Adobe [!DNL Analytics] and Adobe Experience Manager provides several benefits, including:
 
-+ **Precise segmentation**: Merge Adobe Analytics & Audience Manager for personalized audience segments in campaigns.
++ **Precise segmentation**: Merge Adobe [!DNL Analytics] & Audience Manager for personalized audience segments in campaigns.
 + **Comprehensive customer** Profiles: Integrate data sources for a unified understanding of interactions and behaviors.
-+ **Optimized ad targeting**: Enhance ad effectiveness with data-driven targeting from Adobe Analytics & Audience Manager.
-+ **Informed decisions**: Detailed insights from merged Adobe Analytics & Audience Manager data for better choices.
++ **Optimized ad targeting**: Enhance ad effectiveness with data-driven targeting from Adobe [!DNL Analytics] & Audience Manager.
++ **Informed decisions**: Detailed insights from merged Adobe [!DNL Analytics] & Audience Manager data for better choices.
 + **Personalized experiences**: Personalized content & offers across touchpoints, leveraging both platforms' capabilities.
 
 ## Common integrations
@@ -28,11 +28,11 @@ Integrating Adobe Analytics and Adobe Experience Manager provides several benefi
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2">Analytics with AEM Sites</a></td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Experience Platform Web SDK tags extension or alloy.js</a></td>
+            <td rowspan="2">[!DNL Analytics] with AEM Sites</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Experience [!DNL Platform] Web SDK tags extension or alloy.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>When you want to report on AEM web analytics data in Adobe Analytics, and position yourself to integrate with other Experience Cloud applications in the future.</li>
+                    <li>When you want to report on AEM web analytics data in Adobe [!DNL Analytics], and position yourself to integrate with other Experience Cloud applications in the future.</li>
                 </ul>
             </td>
             <td>
@@ -44,10 +44,10 @@ Integrating Adobe Analytics and Adobe Experience Manager provides several benefi
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html" target="_blank" rel="noreferrer">Adobe Analytics tags extension or AppMeasurement.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html" target="_blank" rel="noreferrer">Adobe [!DNL Analytics] tags extension or AppMeasurement.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>When you want to report on AEM web analytics data in Adobe Analytics, and are not planning on using the data in other Experience Cloud applications</li>
+                    <li>When you want to report on AEM web analytics data in Adobe [!DNL Analytics], and are not planning on using the data in other Experience Cloud applications</li>
                     <li>When you use AEM's Core Components for trackable web site elements.</li>
                     <li>When you want minimal configuration and implementation.</li>
                 </ul>
@@ -61,11 +61,11 @@ Integrating Adobe Analytics and Adobe Experience Manager provides several benefi
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html" target="_blank" rel="noreferrer">Analytics and AEM Forms as Cloud Service</a></td>
-            <td>Experience Platform Web SDK tags extension</td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html" target="_blank" rel="noreferrer">[!DNL Analytics] and AEM Forms as Cloud Service</a></td>
+            <td>Experience [!DNL Platform] Web SDK tags extension</td>
             <td>
               <ul style="margin-top: 0;">
-                <li>When you want to report digital form analytics data in Adobe Analytics, and position yourself to integrate with other Experience Cloud applications in the future.</li>
+                <li>When you want to report digital form analytics data in Adobe [!DNL Analytics], and position yourself to integrate with other Experience Cloud applications in the future.</li>
               </ul>
             </td>
             <td>

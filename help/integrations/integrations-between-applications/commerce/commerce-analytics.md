@@ -1,6 +1,6 @@
 ---
-title: Integrate Commerce with Analytics
-description: Learn how to integrate Adobe Commerce with Analytics. 
+title: Integrate [!DNL Commerce] with [!DNL Analytics]
+description: Learn how to integrate Adobe [!DNL Commerce] with [!DNL Analytics]. 
 solution: Commerce, Analytics
 feature: Integrations
 topic: Integrations
@@ -13,6 +13,6 @@ badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-05-30
 ---
 
-# Integrate Commerce with Analytics
+# Integrate [!DNL Commerce] with [!DNL Analytics]
 
 {{$include /help/_includes/integrations-between-applications/analytics-commerce.md}}

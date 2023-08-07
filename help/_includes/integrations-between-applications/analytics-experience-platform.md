@@ -1,17 +1,17 @@
 ---
 ---
 
-# Integrate Adobe Analytics with Experience Platform
+# Integrate Adobe [!DNL Analytics] with Experience [!DNL Platform]
 
 {{analytics-description}}
 
 {{experience-platform-description}}
 
-Integrating Adobe Analytics and Adobe Experience Platform offers several benefits for businesses:
+Integrating Adobe [!DNL Analytics] and Adobe Experience [!DNL Platform] offers several benefits for businesses:
 
 + Straightforward, **user-interface initiated workflow**
-+ **Mapping user-interface** to copy Analytics props and eVars to new XDM fields
-+ Fastest way to get **value from the Real-time Customer Profile and Customer Journey Analytics**
++ **Mapping user-interface** to copy [!DNL Analytics] props and eVars to new XDM fields
++ Fastest way to get **value from the Real-time Customer Profile and Customer Journey [!DNL Analytics]**
 
 By integrating these platforms, businesses can leverage data for exceptional customer experiences, effective marketing, and a competitive edge.
 
@@ -28,11 +28,11 @@ By integrating these platforms, businesses can leverage data for exceptional cus
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html" target="_blank" rel="noreferrer">Analytics and Experience Platform</a></td>
-            <td>Experience Platform source connector</td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html" target="_blank" rel="noreferrer">[!DNL Analytics] and Experience [!DNL Platform]</a></td>
+            <td>Experience [!DNL Platform] source connector</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>When you need to ingest historical Analytics data into Experience Platform from your report suites.</li>
+                    <li>When you need to ingest historical [!DNL Analytics] data into Experience [!DNL Platform] from your report suites.</li>
                     <li>When data availability to the Customer Profile can be between 2-30 minutes from the time of data collection, and availability to the Data Lake is up to 90 minutes.</li>
                 </ul>
             </td>

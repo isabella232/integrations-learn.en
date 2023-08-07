@@ -1,19 +1,19 @@
 ---
 ---
 
-# Integrate Adobe Analytics with Real-Time Customer Data Platform 
+# Integrate Adobe [!DNL Analytics] with Real-Time Customer Data [!DNL Platform] 
 
 {{analytics-description}}
 
 {{real-time-cdp-description}}
 
-Integrating Adobe Analytics with Adobe Real-Time Customer Data Platform (Real-Time CDP) can offer several benefits for businesses looking to enhance their customer experiences and marketing efforts. Here are some of the key advantages:
+Integrating Adobe [!DNL Analytics] with Adobe Real-Time Customer Data [!DNL Platform] (Real-Time CDP) can offer several benefits for businesses looking to enhance their customer experiences and marketing efforts. Here are some of the key advantages:
 
 + **Enhanced audience targeting & personalization**: Precise marketing on devices & channels, tailored messages for optimized engagement.
 + **Improved landing page optimization**: Tailored experiences based on device & behavior, enhancing user satisfaction & conversion.
 + **Seamless audience activation**: Utilize customer profiles for effective targeting through preferred channels, delivering relevant messages.
 
-By combining Adobe Analytics and Real-Time CDP, businesses can take their marketing efforts to the next level, delivering personalized experiences, increasing customer engagement, and optimizing conversions across various digital touchpoints.
+By combining Adobe [!DNL Analytics] and Real-Time CDP, businesses can take their marketing efforts to the next level, delivering personalized experiences, increasing customer engagement, and optimizing conversions across various digital touchpoints.
 
 <table>
     <thead>
@@ -25,29 +25,29 @@ By combining Adobe Analytics and Real-Time CDP, businesses can take their market
         </tr>
     </thead>
     <tr>
-        <td rowspan="2">Analytics with Real-Time CDP</td>
-        <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Experience Platform source connector</a></td>
+        <td rowspan="2">[!DNL Analytics] with Real-Time CDP</td>
+        <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Experience [!DNL Platform] source connector</a></td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Recommended approach for customers who have already implemented Adobe Analytics, and want the fastest way to ingest this data into Experience Platform to use in the Real-Time Customer Profile.</li>
+                <li>Recommended approach for customers who have already implemented Adobe [!DNL Analytics], and want the fastest way to ingest this data into Experience [!DNL Platform] to use in the Real-Time Customer Profile.</li>
                 <li>When data availability to the Real-Time Customer Profile can be between 2-30 minutes from the time of data collection, and availability to the Data Lake is up to 90 minutes.</li>
             </ul>
         </td>
         <td>
             <ul style="margin-top: 0;">
                 <li>Straightforward, user-interface initiated workflow.</li>
-                <li>Mapping user-interface to copy Analytics props and eVars to new XDM fields.</li>
-                <li>Fastest way to get value from the Real-Time Customer Profile and Customer Journey Analytics.</li>
+                <li>Mapping user-interface to copy [!DNL Analytics] props and eVars to new XDM fields.</li>
+                <li>Fastest way to get value from the Real-Time Customer Profile and Customer Journey [!DNL Analytics].</li>
             </ul>
         </td>
     </tr>
     <tr>
-       <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-edge.md" target="_blank" rel="noreferrer">Experience Platform Edge</a></td>
+       <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-edge.md" target="_blank" rel="noreferrer">Experience [!DNL Platform] Edge</a></td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Recommended approach for new Analytics implementations or when you want to implement a long-term strategy.</li>
-                <li>Sends data directly from a device to the Experience Platform using the AEP Web SDK, AEP Mobile SDK, or the Edge Network Server API.</li>
-                <li>New or existing customers who need Analytics data availability to the Real-Time Customer Profile to support same and next page personalization use cases.</li>
+                <li>Recommended approach for new [!DNL Analytics] implementations or when you want to implement a long-term strategy.</li>
+                <li>Sends data directly from a device to the Experience [!DNL Platform] using the AEP Web SDK, AEP Mobile SDK, or the Edge Network Server API.</li>
+                <li>New or existing customers who need [!DNL Analytics] data availability to the Real-Time Customer Profile to support same and next page personalization use cases.</li>
             </ul>
         </td>
         <td>
