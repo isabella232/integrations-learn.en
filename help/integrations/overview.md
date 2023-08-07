@@ -1,6 +1,6 @@
 ---
 title: Integration configurations for Adobe Experience Cloud applications
-description: Common integration configurations for Adobe Experience Cloud applications.
+description: Common integration configurations for Adobe Experience Cloud products.
 ---
 
 # Integration configurations for Adobe Experience Cloud products
