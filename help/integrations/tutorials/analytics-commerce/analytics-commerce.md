@@ -84,4 +84,4 @@ For greater details on each phase and step of the onboarding process, follow the
     * [Using Tables, Visualizations, and Panels in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
     * [Visualization use cases](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
 
-    Additionally, there are free courses available on Experience League. See [!DNL Analytics] courses available [HERE](https://experienceleague.adobe.com/?lang=en&Solution=[!DNL Analytics]#courses).
+    Additionally, there are free courses available on Experience League. See [!DNL Analytics] courses available [HERE](https://experienceleague.adobe.com/?lang=en&Solution=Analytics#courses).
