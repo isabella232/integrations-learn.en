@@ -7,7 +7,7 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Intermediate
 kt:
-thumbnail:
+thumbnail: analytics-customer-journey-analytics.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-29
 ---

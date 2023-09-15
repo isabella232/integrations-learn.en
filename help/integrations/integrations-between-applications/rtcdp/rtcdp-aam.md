@@ -7,7 +7,7 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
 kt:
-thumbnail:
+thumbnail: aam-rtcdp.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-04-14
 ---

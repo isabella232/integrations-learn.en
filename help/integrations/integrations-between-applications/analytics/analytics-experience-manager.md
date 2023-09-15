@@ -8,7 +8,7 @@ role: Leader, Architect, Admin, Developer
 level: Beginner
 index: no
 kt:
-thumbnail:
+thumbnail: analytics-experience-manager.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
 ---

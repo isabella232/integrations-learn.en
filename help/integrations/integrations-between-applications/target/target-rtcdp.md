@@ -8,6 +8,7 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer, User
 level: Beginner
 index: no
+thumbnail: rtcdp-target.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-25
 ---

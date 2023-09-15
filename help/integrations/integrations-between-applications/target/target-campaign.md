@@ -7,7 +7,7 @@ topic: Integrations
 role: User
 level: Beginner
 kt:
-thumbnail:
+thumbnail: campaign-target.png
 last-substantial-update: 2023-05-19
 badgeIntegration: label="Integration" type="positive"
 ---

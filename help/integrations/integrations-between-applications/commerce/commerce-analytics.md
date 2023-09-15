@@ -7,7 +7,7 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
 kt:
-thumbnail:
+thumbnail: analytics-commerce.png
 index: no
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-05-30

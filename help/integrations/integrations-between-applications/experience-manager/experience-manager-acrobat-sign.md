@@ -7,7 +7,7 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
 kt:
-thumbnail:
+thumbnail: sign-experience-manager.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
 ---

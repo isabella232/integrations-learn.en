@@ -7,7 +7,7 @@ topic: Integrations
 role: Architect, Admin, Developer
 level: Beginner
 jira:
-thumbnail:
+thumbnail: experience-platform.png
 last-substantial-update: 2023-07-19
 ---
 

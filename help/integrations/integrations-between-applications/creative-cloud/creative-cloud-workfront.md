@@ -9,7 +9,7 @@ level: Intermediate
 doc-type: Feature Video
 last-substantial-update: 2023-06-27
 jira: KT-13072
-thumbnail: KT-13072.jpeg
+thumbnail: creativecloud-workfront.png
 ---
 
 # Integrate Workfront with Creative Cloud

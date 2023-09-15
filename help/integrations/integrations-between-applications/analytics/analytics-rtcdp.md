@@ -7,7 +7,7 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Intermediate
 kt:
-thumbnail:
+thumbnail: analytics-rtcdp.png
 index: no
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-29

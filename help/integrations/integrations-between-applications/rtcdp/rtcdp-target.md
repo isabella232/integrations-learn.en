@@ -7,6 +7,7 @@ feature: Integrations, Audiences, Segments, Profiles
 topic: Integrations
 role: Leader, Architect, Admin, Developer, User
 level: Beginner
+thumbnail: rtcdp-target.png
 index: no
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-25

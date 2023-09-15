@@ -8,6 +8,7 @@ role: Leader, Architect, Admin, Developer
 level: Beginner
 last-substantial-update: 2023-06-30
 badgeIntegration: label="Integration" type="positive"
+thumbnail: campaign-rtcdp.png
 ---
 
 # Integrate [!DNL Campaign] with Real-Time Customer Data [!DNL Platform]
