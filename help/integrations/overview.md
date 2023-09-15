@@ -5,9 +5,9 @@ description: Learn about common configurations for integrating Experience Cloud 
 
 # Integration Configurations for Experience Cloud Applications
 
-Are you familiar with Experience Cloud applications but unsure how best to integrate them? Do you know your business objectives but aren't sure which applications to use? Then you've come to the right place! These Experience Cloud integration tutorials describe some of the most common application integrations available. 
+Are you familiar with Experience Cloud applications but unsure how best to integrate them? Do you know your business objectives but aren't sure which applications to use? Then you've come to the right place! 
 
-The options you have to configure Adobe applications depend on your environment, so we've organized integrations by business solutions and applications to help you quickly find the information you need. Use these tutorials and videos as guidance to deploy as-is, or you can modify them to meet the needs of your environment.
+These Experience Cloud integration tutorials describe some of the most common application integrations available. Your configuration options depend on your environment, so we've organized integrations by business solutions and applications. Use these tutorials and videos as guidance to deploy as-is, or you can modify them to meet the needs of your environment.
 
 <table>
 <tr>
@@ -20,15 +20,15 @@ The options you have to configure Adobe applications depend on your environment,
 </tr>
 <tr>
    <td>
-      <div><strong><a href="./integrations-between-applications/overview.md">By product</a></strong></div>
+      <div><strong><a href="./integrations-between-applications/overview.md">By application</a></strong></div>
       <p>
-        You know which Adobe products to use and you want to learn how to integrate them.
+        You know which Adobe applications to use and you want to learn how to integrate them.
       </p>
    </td>
    <td>
       <div><strong><a href="./solution-categories/overview.md">By business solution</a></strong></div>
       <p>
-        You know the business solution that you are looking for but are unsure which Adobe products to use.
+        You know the business solution that you are looking for but are unsure which Adobe applications to use.
       </p>
    </td>  
 </tr>   
