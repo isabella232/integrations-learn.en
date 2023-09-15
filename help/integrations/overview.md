@@ -1,15 +1,13 @@
 ---
-title: Integration configurations for Adobe Experience Cloud applications
-description: Common integration configurations for Adobe Experience Cloud products.
+title: Application integrations
+description: Learn about common configurations for integrating Experience Cloud applications. Discover how best-in-class enterprise products from Adobe can help you tackle your business challenges.
 ---
 
-# Integration configurations for Adobe Experience Cloud products
+# Integration Configurations for Experience Cloud Applications
 
-Whether you are familiar with Adobe Experience Cloud products and you are unsure of the best way to integrate them, or you know the business objectives you are trying to achieve but are unsure of which Adobe Experience Cloud products you should use, you have found the right place.
+Are you familiar with Experience Cloud applications but unsure how best to integrate them? Do you know your business objectives but aren't sure which applications to use? Then you've come to the right place! These Experience Cloud integration tutorials describe some of the most common application integrations available. 
 
-You will find the most common Adobe Experience Cloud product integrations organized by business solution and Adobe product.  
-
-There are many ways to configure the Adobe products, and this is highly dependent on your environment.  Use these tutorials and videos as guidance to deploy as-is or modify to meet the needs of your environment.
+The options you have to configure Adobe applications depend on your environment, so we've organized integrations by business solutions and applications to help you quickly find the information you need. Use these tutorials and videos as guidance to deploy as-is, or you can modify them to meet the needs of your environment.
 
 <table>
 <tr>
@@ -30,7 +28,7 @@ There are many ways to configure the Adobe products, and this is highly dependen
    <td>
       <div><strong><a href="./solution-categories/overview.md">By business solution</a></strong></div>
       <p>
-        You know the business solution you are looking for, but are unsure which Adobe products to use.
+        You know the business solution that you are looking for but are unsure which Adobe products to use.
       </p>
    </td>  
 </tr>   
