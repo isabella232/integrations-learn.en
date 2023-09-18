@@ -7,7 +7,7 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
 kt:
-thumbnail:
+thumbnail: experience-manager-journey-optimizer.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
 hidefromtoc: true
