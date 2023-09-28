@@ -8,12 +8,12 @@ role: Admin, Developer
 level: Experienced
 index: yes
 hidefromtoc: true
-kt:
-thumbnail:
+kt: null
+thumbnail: null
 last-substantial-update: 2023-07-26
 badgeIntegration: label="Integration" type="positive"
+exl-id: 739bbee6-af41-4ae3-a912-5ca8ad735cb9
 ---
-
 # Integrate [!DNL Campaign] v8 with Experience Manager tutorial
 
 Learn how to connect Adobe [!DNL Campaign] with Adobe Experience Manager to manage email delivery templates, assets, and forms in Experience Manager.

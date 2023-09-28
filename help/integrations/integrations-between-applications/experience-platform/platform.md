@@ -6,11 +6,11 @@ feature: Integrations
 topic: Integrations
 role: Architect, Admin, Developer
 level: Beginner
-jira:
+jira: null
 thumbnail: experience-platform.png
 last-substantial-update: 2023-07-19
+exl-id: 1e769cc4-c254-4c91-84bf-ff77756022b6
 ---
-
 # Integrate Experience [!DNL Platform] with other Adobe applications
 
 Adobe Experience [!DNL Platform] is the most powerful, flexible, and open system on the market for building and managing complete solutions that drive customer experience. Many new Adobe Applications have been built on top of Experience [!DNL Platform], including:

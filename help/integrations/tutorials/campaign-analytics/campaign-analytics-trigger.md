@@ -8,12 +8,12 @@ role: Admin
 level: Experienced
 index: yes
 hidefromtoc: true
-kt:
-thumbnail:
+kt: null
+thumbnail: null
 last-substantial-update: 2023-07-26
 badgeIntegration: label="Integration" type="positive"
+exl-id: 9c94958f-8f42-46fa-85ee-9fc41e9d89c3
 ---
-
 # Integrate [!DNL Campaign] Standard with [!DNL Analytics] using Triggers tutorial
 
 Learn how to configure and use triggers for transactional messaging.
@@ -45,6 +45,3 @@ Learn how to create a trigger event in [!DNL Campaign] Standard.
 Learn how to configure transactional messages using real-time event data coming from triggers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
-
-
-

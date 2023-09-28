@@ -7,12 +7,12 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
 index: no
-kt:
+kt: null
 thumbnail: campaign-experience-manager.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
+exl-id: f93c326f-b969-4222-876c-70f68955c2b8
 ---
-
 # Integrate Experience Manager with [!DNL Campaign]
 
 {{$include /help/_includes/integrations-between-applications/campaign-experience-manager.md}}

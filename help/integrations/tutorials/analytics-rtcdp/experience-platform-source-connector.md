@@ -1,6 +1,6 @@
 ---
 title: Integrate [!DNL Analytics] and Real-Time Customer Data [!DNL Platform] with Experience [!DNL Platform] source connector tutorial
-description: Learn how to integrate Adobe [!DNL Analytics] with Real-Time Customer Data [!DNL Platform] using the Experience [!DNL Platform] source connector. 
+description: Learn how to integrate Adobe [!DNL Analytics] with Real-Time Customer Data [!DNL Platform] using the Experience [!DNL Platform] source connector.
 solution: Real-Time Customer Data [!DNL Platform], [!DNL Analytics]
 feature: Integrations
 topic: Integrations
@@ -9,11 +9,11 @@ level: Beginner
 index: yes
 hidefromtoc: true
 kt: 13728
-thumbnail:
+thumbnail: null
 last-substantial-update: 2023-04-11
 badgeIntegration: label="Integration" type="positive"
+exl-id: 73936907-9491-4cae-b20f-8d9ce97d8af9
 ---
-
 # Integrate Adobe [!DNL Analytics] and Real-Time Customer Data [!DNL Platform] with Experience [!DNL Platform] source connector
 
 <ol>
@@ -28,4 +28,4 @@ badgeIntegration: label="Integration" type="positive"
 
 >[!NOTE]
 >
->The standard workflow steps for the Adobe [!DNL Analytics] source connector create the schema and dataset used to ingest the data from [!DNL Analytics] "as-is". Therefore, the first two steps are handled by the system. The mapping workflow requires creating custom attributes; therefore, follow the sequence of steps fully. 
+>The standard workflow steps for the Adobe [!DNL Analytics] source connector create the schema and dataset used to ingest the data from [!DNL Analytics] "as-is". Therefore, the first two steps are handled by the system. The mapping workflow requires creating custom attributes; therefore, follow the sequence of steps fully.

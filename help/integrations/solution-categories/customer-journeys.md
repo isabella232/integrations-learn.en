@@ -1,8 +1,8 @@
 ---
 title: Customer journey
-description: Develop real-time customer profiles by pulling data from all sources to create personalized, cross-channel journeys. 
+description: Develop real-time customer profiles by pulling data from all sources to create personalized, cross-channel journeys.
+exl-id: 24ff7753-13d5-46ea-af40-7b4f81053d89
 ---
-
 # Customer journey
 
 Develop real-time customer profiles by pulling data from all sources to create personalized, cross-channel journeys. 
@@ -112,4 +112,3 @@ Develop real-time customer profiles by pulling data from all sources to create p
 </tr>
 </tbody>
 </table>
-

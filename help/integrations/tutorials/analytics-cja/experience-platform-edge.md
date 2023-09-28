@@ -1,6 +1,6 @@
 ---
 title: Integrate Adobe [!DNL Analytics] and Customer Journey [!DNL Analytics] with the Experience [!DNL Platform] Edge tutorial
-description: Learn how to integrate Adobe [!DNL Analytics] with Customer Journey [!DNL Analytics] using the AEP Web SDK, AEP Mobile SDK, or the Edge Network Server API. 
+description: Learn how to integrate Adobe [!DNL Analytics] with Customer Journey [!DNL Analytics] using the AEP Web SDK, AEP Mobile SDK, or the Edge Network Server API.
 solution: Customer Journey [!DNL Analytics], [!DNL Analytics]
 feature: Integrations
 topic: Integrations
@@ -8,12 +8,12 @@ role: Developer
 level: Experienced
 index: yes
 hidefromtoc: true
-kt:
+kt: null
 thumbnail: 13728
 last-substantial-update: 2023-04-11
 badgeIntegration: label="Integration" type="positive"
+exl-id: 16ee7f0f-61b0-4fa6-b19c-376dd909c193
 ---
-
 # Integrate Adobe [!DNL Analytics] and Customer Journey [!DNL Analytics] with the Experience [!DNL Platform] Edge tutorial   
 
 <ol>
@@ -46,4 +46,4 @@ badgeIntegration: label="Integration" type="positive"
 
 >[!NOTE]
 >
->The standard workflow steps for the Adobe [!DNL Analytics] source connector create the schema and dataset used to ingest the data from [!DNL Analytics] "as-is". Therefore, the first two steps are handled by the system. The mapping workflow requires creating custom attributes; therefore, follow the sequence of steps fully. 
+>The standard workflow steps for the Adobe [!DNL Analytics] source connector create the schema and dataset used to ingest the data from [!DNL Analytics] "as-is". Therefore, the first two steps are handled by the system. The mapping workflow requires creating custom attributes; therefore, follow the sequence of steps fully.

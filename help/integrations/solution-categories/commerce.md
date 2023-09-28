@@ -1,8 +1,8 @@
 ---
 title: Commerce
-description: Build multi-channel commerce experiences on a single platform with our flexible, AI-powered commerce solution. 
+description: Build multi-channel commerce experiences on a single platform with our flexible, AI-powered commerce solution.
+exl-id: b4c0e884-7e3f-4aa5-ba15-a1f761be4908
 ---
-
 # [!DNL Commerce]
 
 Build multi-channel commerce experiences on a single platform with our flexible, AI-powered commerce solution. Expand your market reach, enhance customer convenience, and drive sales growth by establishing a digital storefront, providing a seamless online shopping experience for customers to explore, browse, and purchase products or services anytime, anywhere.

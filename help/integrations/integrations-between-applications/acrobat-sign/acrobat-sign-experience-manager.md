@@ -7,13 +7,12 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
 index: no
-kt:
+kt: null
 thumbnail: sign-experience-manager.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
+exl-id: 9892fb8b-5223-4f85-bfe4-9984e9405aa2
 ---
-
 # Integrate Acrobat Sign with Experience Manager
 
 {{$include /help/_includes/integrations-between-applications/acrobat-sign-experience-manager.md}}
-

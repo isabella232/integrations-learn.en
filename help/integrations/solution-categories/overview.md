@@ -1,8 +1,8 @@
 ---
 title: Integration configurations for Adobe Experience Cloud applications - by solution
 description: Common integration configurations for Adobe Experience Cloud applications organized by solutions.
+exl-id: 5b63df50-9276-4897-853b-3817b5b9b340
 ---
-
 # Integration configurations for Adobe Experience Cloud applications - by solution
 
 This section will help anyone who has a business need but is unsure which Adobe products to use and how to integrate them.  We have organized many of the most common integration configurations for the Adobe enterprise products by solution categories.  Keep in mind there are many ways to configure the Adobe products depending on your environment.  The intent of this section is to provide guidance that you can deploy as-is or modify to meet the needs of your environment.
@@ -63,4 +63,3 @@ This section will help anyone who has a business need but is unsure which Adobe 
       </p>
    </td>
 </table>
-

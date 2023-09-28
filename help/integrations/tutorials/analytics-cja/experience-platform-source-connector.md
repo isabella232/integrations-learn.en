@@ -1,6 +1,6 @@
 ---
 title: Integrate [!DNL Analytics] and Customer Journey [!DNL Analytics] with Experience [!DNL Platform] source connector tutorial
-description: Learn how to integrate Adobe [!DNL Analytics] with Customer Journey [!DNL Analytics] using the Experience [!DNL Platform] source connector. 
+description: Learn how to integrate Adobe [!DNL Analytics] with Customer Journey [!DNL Analytics] using the Experience [!DNL Platform] source connector.
 solution: Customer Journey [!DNL Analytics], [!DNL Target]
 feature: Integrations
 topic: Integrations
@@ -9,11 +9,11 @@ level: Beginner
 index: yes
 hidefromtoc: true
 kt: 13727
-thumbnail:
+thumbnail: null
 last-substantial-update: 2023-04-11
 badgeIntegration: label="Integration" type="positive"
+exl-id: 41c47593-74e4-4693-a7a0-58689bc6c31d
 ---
-
 # Integrate Adobe [!DNL Analytics] and Customer Journey [!DNL Analytics] with Experience [!DNL Platform] source connector    
 
 <ol>
@@ -30,4 +30,4 @@ badgeIntegration: label="Integration" type="positive"
 
 >[!NOTE]
 >
->The standard workflow steps for the Adobe [!DNL Analytics] source connector create the schema and dataset used to ingest the data from [!DNL Analytics] "as-is". Therefore, the first two steps are handled by the system. The mapping workflow requires creating custom attributes; therefore, follow the sequence of steps fully. 
+>The standard workflow steps for the Adobe [!DNL Analytics] source connector create the schema and dataset used to ingest the data from [!DNL Analytics] "as-is". Therefore, the first two steps are handled by the system. The mapping workflow requires creating custom attributes; therefore, follow the sequence of steps fully.

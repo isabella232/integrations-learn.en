@@ -8,12 +8,12 @@ role: Leader, Architect, Admin, Developer
 level: Beginner
 index: yes
 hidefromtoc: true
-kt:
-thumbnail:
+kt: null
+thumbnail: null
 last-substantial-update: 2023-04-11
 badgeIntegration: label="Integration" type="positive"
+exl-id: 7a1d1c74-a046-49fd-8501-a788f3229301
 ---
-
 # Integrate [!DNL Campaign] v8 with Real-Time CDP
 
 ## Connect [!DNL Campaign] to Experience [!DNL Platform] as a destination

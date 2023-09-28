@@ -1,8 +1,8 @@
 ---
 title: B2B marketing
 description: Coordinate lead management, ABM, and attribution at scale across channels based on unified customer profiles and data.
+exl-id: d743681b-a667-456d-b908-6f2cee2f937f
 ---
-
 # B2B marketing
 
 Coordinate lead management, ABM, and attribution at scale across channels based on unified customer profiles and data.

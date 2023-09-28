@@ -9,11 +9,11 @@ level: Experienced
 index: yes
 hidefromtoc: true
 kt: 13732
-thumbnail:
+thumbnail: null
 last-substantial-update: 2023-04-11
 badgeIntegration: label="Integration" type="positive"
+exl-id: fe5e1091-98ce-4c3b-b07e-979bd7c3f8f0
 ---
-
 # Integrate Adobe [!DNL Analytics] and Real-Time Customer Data [!DNL Platform] with Experience [!DNL Platform] Edge tutorial
 
 <ol>

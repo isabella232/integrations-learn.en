@@ -1,7 +1,7 @@
 ---
 title: Integrate Real-Time CDP and [!DNL Target] with Web SDK and [!DNL Target] destination
-description: Learn how to integrate Real-Time CDP and [!DNL Target] with Web SDK and [!DNL Target] destination. 
-solution: Target, Real-Time Customer Data Platform 
+description: Learn how to integrate Real-Time CDP and [!DNL Target] with Web SDK and [!DNL Target] destination.
+solution: Target, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
@@ -10,8 +10,8 @@ index: yes
 hidefromtoc: true
 last-substantial-update: 2023-07-25
 badgeIntegration: label="Integration" type="positive"
+exl-id: bca08b8f-c52f-467a-8c67-4ffe5a9ff863
 ---
-
 # Integrate Real-Time CDP and [!DNL Target] with Web SDK and [!DNL Target] destination
 
 ## Next-hit personalization with Adobe Real-Time CDP and Adobe [!DNL Target]
@@ -44,4 +44,3 @@ Learn how to use Real-Time Customer Data [!DNL Platform] segments in Adobe [!DNL
 Learn how to use Adobe Real-Time Customer Data [!DNL Platform] profile attributes in Adobe [!DNL Target]. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
-

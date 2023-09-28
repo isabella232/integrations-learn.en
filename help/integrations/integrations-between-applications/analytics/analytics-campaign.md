@@ -6,13 +6,13 @@ feature: Integrations
 topic: Integrations
 role: User, Developer
 level: Beginner
-kt:
+kt: null
 thumbnail: analytics-campaign.png
 index: no
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-05-19
+exl-id: e4f5ba24-1889-4eb7-89c6-2d93ee31ea98
 ---
-
 # Integrate [!DNL Analytics] with [!DNL Campaign]
 
 {{$include /help/_includes/integrations-between-applications/analytics-campaign.md}}

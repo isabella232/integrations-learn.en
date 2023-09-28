@@ -7,12 +7,12 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
 index: no
-kt:
+kt: null
 thumbnail: experience-manager-marketo.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
+exl-id: 9533b555-095a-453b-ac11-74b20c524197
 ---
-
 # Integrate Experience Manager with Marketo Engage
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-marketo.md}}

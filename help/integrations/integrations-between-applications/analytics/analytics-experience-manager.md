@@ -7,12 +7,12 @@ topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
 index: no
-kt:
+kt: null
 thumbnail: analytics-experience-manager.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
+exl-id: cc0912c5-1f7f-4440-860d-2afd1664ebb5
 ---
-
 # Integrate [!DNL Analytics] with Experience Manager
 
 {{$include /help/_includes/integrations-between-applications/analytics-experience-manager.md}}

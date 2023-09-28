@@ -1,19 +1,19 @@
 ---
 title: Integrate [!DNL Analytics] with [!DNL Commerce] tutorial
-description: Learn how to integrate [!DNL Analytics] with [!DNL Commerce]. 
-solution: Analytics, Commerce 
+description: Learn how to integrate [!DNL Analytics] with [!DNL Commerce].
+solution: Analytics, Commerce
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
 level: Beginner
 index: yes
 hidefromtoc: true
-kt:
-thumbnail:
+kt: null
+thumbnail: null
 last-substantial-update: 2023-04-11
 badgeIntegration: label="Integration" type="positive"
+exl-id: fd085c9a-ec81-4568-9f58-a2a577183ce3
 ---
-
 # Integrate [!DNL Analytics] with [!DNL Commerce]
 
 ## Initial Onboarding
