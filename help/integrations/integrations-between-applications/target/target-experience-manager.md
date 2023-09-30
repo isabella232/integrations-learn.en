@@ -10,7 +10,7 @@ kt: null
 thumbnail: experience-manager-target.png
 last-substantial-update: 2023-07-31
 badgeIntegration: label="Integration" type="positive"
-exl-id: 021a01a8-2cd8-4421-82f5-8c3a14245989
+exl-id: 013a35ff-ea80-4d81-9558-494d012293f8
 ---
 # Integrate [!DNL Target] with Experience Manager
 

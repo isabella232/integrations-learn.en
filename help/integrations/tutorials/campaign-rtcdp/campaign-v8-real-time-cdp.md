@@ -12,7 +12,7 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11
 badgeIntegration: label="Integration" type="positive"
-exl-id: 7a1d1c74-a046-49fd-8501-a788f3229301
+exl-id: 5d9d82d0-7416-4b0a-895f-909058cd9a80
 ---
 # Integrate [!DNL Campaign] v8 with Real-Time CDP
 

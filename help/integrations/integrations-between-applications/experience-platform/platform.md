@@ -9,7 +9,7 @@ level: Beginner
 jira: null
 thumbnail: experience-platform.png
 last-substantial-update: 2023-07-19
-exl-id: 1e769cc4-c254-4c91-84bf-ff77756022b6
+exl-id: ef86a50c-b8ff-4371-a9e9-8fc51aa1769a
 ---
 # Integrate Experience [!DNL Platform] with other Adobe applications
 

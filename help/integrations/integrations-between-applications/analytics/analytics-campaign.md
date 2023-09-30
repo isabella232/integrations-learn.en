@@ -11,7 +11,7 @@ thumbnail: analytics-campaign.png
 index: no
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-05-19
-exl-id: e4f5ba24-1889-4eb7-89c6-2d93ee31ea98
+exl-id: ad99d8dd-046c-478b-afd8-48a265396769
 ---
 # Integrate [!DNL Analytics] with [!DNL Campaign]
 

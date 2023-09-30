@@ -11,7 +11,7 @@ kt: null
 thumbnail: commerce-experience-manager.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
-exl-id: a2a126a2-45c0-490d-9446-e755ffd604a1
+exl-id: 7c376a61-6324-40ca-bdeb-cb92f3ff1868
 ---
 # Integrate Experience Manager with [!DNL Commerce]
 

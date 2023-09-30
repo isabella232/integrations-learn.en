@@ -12,7 +12,7 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-07-26
 badgeIntegration: label="Integration" type="positive"
-exl-id: 739bbee6-af41-4ae3-a912-5ca8ad735cb9
+exl-id: 040f992e-029c-44a2-ac2b-10f2995a6c75
 ---
 # Integrate [!DNL Campaign] v8 with Experience Manager tutorial
 

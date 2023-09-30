@@ -10,7 +10,7 @@ kt: null
 thumbnail: customer-journey-analytics-rtcdp.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-04-13
-exl-id: 3aef5ff8-567d-4bc6-8c60-08811bc2a410
+exl-id: adf30070-4c06-46c4-be2f-e9589b69831d
 ---
 # Integrate Real-Time Customer Data [!DNL Platform] with Customer Journey [!DNL Analytics]
 

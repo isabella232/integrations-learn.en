@@ -1,7 +1,7 @@
 ---
 title: Integration configurations for Adobe Experience Cloud applications - by product
 description: Common integration configurations for Adobe Experience Cloud applications organized by product.
-exl-id: 126bca83-d2e9-40d5-9435-1cc5eaddd202
+exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
 ---
 # Integration configurations for Adobe Experience Cloud products - by product
 

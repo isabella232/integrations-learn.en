@@ -10,7 +10,7 @@ index: yes
 hidefromtoc: true
 last-substantial-update: 2023-07-25
 badgeIntegration: label="Integration" type="positive"
-exl-id: c7bd5c10-0502-48b1-96eb-8635178c8ad1
+exl-id: 2089ca9f-3b9d-4d35-9c86-1ea1c53031b1
 ---
 # Integrate Real-Time CDP and [!DNL Target] with Mobile SDK and [!DNL Target] destination
 

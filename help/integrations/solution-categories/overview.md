@@ -1,7 +1,7 @@
 ---
 title: Integration configurations for Adobe Experience Cloud applications - by solution
 description: Common integration configurations for Adobe Experience Cloud applications organized by solutions.
-exl-id: 5b63df50-9276-4897-853b-3817b5b9b340
+exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 ---
 # Integration configurations for Adobe Experience Cloud applications - by solution
 

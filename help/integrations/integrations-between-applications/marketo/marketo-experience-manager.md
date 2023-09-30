@@ -10,7 +10,7 @@ kt: null
 thumbnail: experience-manager-marketo.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-04-11
-exl-id: 3f0fb6b9-6667-466b-8720-19f4384a0fe1
+exl-id: abba8886-1f84-4187-bf82-4c8ba887f843
 ---
 # Integrate Marketo Engage with Experience Manager
 

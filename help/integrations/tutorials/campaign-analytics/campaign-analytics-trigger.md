@@ -12,7 +12,7 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-07-26
 badgeIntegration: label="Integration" type="positive"
-exl-id: 9c94958f-8f42-46fa-85ee-9fc41e9d89c3
+exl-id: dbbaeeff-2c31-45c2-85af-ad1b80ba6c9c
 ---
 # Integrate [!DNL Campaign] Standard with [!DNL Analytics] using Triggers tutorial
 

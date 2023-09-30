@@ -11,7 +11,7 @@ kt: null
 thumbnail: analytics-target.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-04-11
-exl-id: 3768be0e-6bf1-4fee-a548-74511971bf5e
+exl-id: e4fa89bb-cc84-442e-86bd-5b1c89ff8011
 ---
 # Integrate [!DNL Analytics] with [!DNL Target]
 

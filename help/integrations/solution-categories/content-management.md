@@ -1,7 +1,7 @@
 ---
 title: Content management
 description: In today's digital landscape, catering to the unique needs of millions of customers presents a significant challenge. However, it doesn't end there. To succeed, you must also possess the ability to rapidly discover, connect, and repurpose approved assets across various devices and channels on a global scale. Furthermore, gaining insights into the effectiveness of these experiences is crucial. Discover a comprehensive solution that empowers you to effortlessly create personalized digital experiences, while ensuring real-time asset management, efficient delivery, and performance evaluation.
-exl-id: 0a95ad97-accb-4849-be91-47c70d1a2836
+exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
 ---
 # Content management
 

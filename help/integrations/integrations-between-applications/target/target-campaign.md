@@ -10,7 +10,7 @@ kt: null
 thumbnail: campaign-target.png
 last-substantial-update: 2023-05-19
 badgeIntegration: label="Integration" type="positive"
-exl-id: e5b180a0-a2ca-4ed1-a764-55402b191f8c
+exl-id: a694b11a-a3e6-4cad-8682-00cf4bf9db41
 ---
 # Integrate [!DNL Target] with [!DNL Campaign]
 

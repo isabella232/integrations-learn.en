@@ -12,7 +12,7 @@ kt: 13728
 thumbnail: null
 last-substantial-update: 2023-04-11
 badgeIntegration: label="Integration" type="positive"
-exl-id: 73936907-9491-4cae-b20f-8d9ce97d8af9
+exl-id: 1e27555d-e609-4a04-91ca-9518898ad699
 ---
 # Integrate Adobe [!DNL Analytics] and Real-Time Customer Data [!DNL Platform] with Experience [!DNL Platform] source connector
 

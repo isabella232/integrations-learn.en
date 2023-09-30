@@ -10,7 +10,7 @@ kt: null
 thumbnail: sign-experience-manager.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
-exl-id: 37786064-fb65-4059-b01f-ce28b58e606e
+exl-id: 8051c9e3-fb83-4210-b7a0-89a4d19dd456
 ---
 # Integrate Experience Manager with Acrobat Sign
 

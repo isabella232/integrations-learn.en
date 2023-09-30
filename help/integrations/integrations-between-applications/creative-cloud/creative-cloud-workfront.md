@@ -10,7 +10,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-27
 jira: KT-13072
 thumbnail: creativecloud-workfront.png
-exl-id: 35a95dcb-e7a3-4de0-98d8-4933213d91ec
+exl-id: edeeaeb4-f893-4d63-b119-61df05a69257
 ---
 # Integrate Workfront with Creative Cloud
 

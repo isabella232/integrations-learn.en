@@ -10,7 +10,7 @@ index: yes
 hidefromtoc: true
 last-substantial-update: 2023-07-25
 badgeIntegration: label="Integration" type="positive"
-exl-id: 0c2ecca8-195b-4f5d-89ff-151fb2b36c64
+exl-id: 4cd856a8-2c92-42e2-b259-2bcdc517a706
 ---
 # Integrate Real-Time CDP and [!DNL Target] with at.js and [!DNL Target] destination
 

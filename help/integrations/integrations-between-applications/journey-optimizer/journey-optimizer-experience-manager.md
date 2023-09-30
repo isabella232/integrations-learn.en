@@ -11,7 +11,7 @@ thumbnail: experience-manager-journey-optimizer.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
 hidefromtoc: true
-exl-id: dacbe137-1c08-41ce-a781-3bf1c4d35729
+exl-id: 63e2d493-1161-40b3-adc5-6f0ff98b61a9
 ---
 # Integrate Journey Optimizer with Experience Manager
 

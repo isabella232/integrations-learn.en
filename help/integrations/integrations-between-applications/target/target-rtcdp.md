@@ -11,7 +11,7 @@ index: no
 thumbnail: rtcdp-target.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-25
-exl-id: e99a46e3-e8c5-46b8-a3c1-e4bcb16e937a
+exl-id: 84f949af-ae83-4905-83c0-a0eca35d0002
 ---
 # Integrate Adobe [!DNL Target] with Adobe Real-Time Customer Data [!DNL Platform]
 

@@ -1,7 +1,7 @@
 ---
 title: Commerce
 description: Build multi-channel commerce experiences on a single platform with our flexible, AI-powered commerce solution.
-exl-id: b4c0e884-7e3f-4aa5-ba15-a1f761be4908
+exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
 ---
 # [!DNL Commerce]
 

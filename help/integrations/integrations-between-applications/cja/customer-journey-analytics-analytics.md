@@ -10,7 +10,7 @@ kt: null
 thumbnail: analytics-customer-journey-analytics.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-29
-exl-id: 300cee2f-c073-4fa2-a33e-269b810ef30d
+exl-id: 3d0cc66b-d4b1-461f-aa97-313b3011ca02
 ---
 # Integrate Customer Journey [!DNL Analytics] with [!DNL Analytics]
 

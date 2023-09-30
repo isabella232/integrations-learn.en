@@ -9,7 +9,7 @@ level: Beginner
 last-substantial-update: 2023-06-30
 badgeIntegration: label="Integration" type="positive"
 thumbnail: campaign-rtcdp.png
-exl-id: ed115b2c-820a-4c8d-a59c-f99e182619d4
+exl-id: 8da35245-c489-4156-bc8d-e6afd334a7c3
 ---
 # Integrate [!DNL Campaign] with Real-Time Customer Data [!DNL Platform]
 

@@ -11,7 +11,7 @@ thumbnail: aam-analytics.png
 index: no
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-04-14
-exl-id: 7a1500e8-f28c-4272-a006-75333ac16683
+exl-id: cc08fb38-89d0-447b-8d95-2c7120fe3bcd
 ---
 # Integrate [!DNL Analytics] with Audience Manager
 

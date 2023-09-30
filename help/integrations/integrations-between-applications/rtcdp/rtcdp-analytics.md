@@ -10,7 +10,7 @@ kt: null
 thumbnail: analytics-rtcdp.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-29
-exl-id: ee94ef39-39bd-497d-afd7-82b36652967c
+exl-id: 7c29bf9a-8855-4a8e-9a06-f537fbde84a4
 ---
 # Integrate Real-Time Customer Data [!DNL Platform] with [!DNL Analytics]
 

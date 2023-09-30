@@ -10,7 +10,7 @@ index: no
 thumbnail: campaign-rtcdp.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-06-30
-exl-id: 261305d3-048e-41a2-ad22-3ae7028e25bb
+exl-id: 37d983a1-6ede-4a35-864b-9ad7c9868821
 ---
 # Integrate Real-Time Customer Data [!DNL Platform] with [!DNL Campaign]
 

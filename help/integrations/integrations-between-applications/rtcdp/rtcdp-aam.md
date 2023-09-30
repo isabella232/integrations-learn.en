@@ -10,7 +10,7 @@ kt: null
 thumbnail: aam-rtcdp.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-04-14
-exl-id: 32831230-ccfa-4cdd-af1a-df75fba464c0
+exl-id: b3270603-3b62-4ac7-a6e0-236afba5e462
 ---
 # Integrate Real-Time Customer Data [!DNL Platform] with Audience Manager
 

@@ -10,7 +10,7 @@ kt: null
 thumbnail: campaign-experience-manager.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
-exl-id: 2fae3ca4-30c1-4555-8fa7-99a8f04cb57b
+exl-id: 3b186af3-d72f-4fe5-adfb-daad94075095
 ---
 # Integrate [!DNL Campaign] with Experience Manager
 

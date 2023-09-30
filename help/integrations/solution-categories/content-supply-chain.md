@@ -1,7 +1,7 @@
 ---
 title: Content supply chain
 description: Plan, create, personalize, and publish content.
-exl-id: 9f75e4b8-24ab-4159-b3ae-4fe8fc3654c8
+exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
 ---
 # Content supply chain
 

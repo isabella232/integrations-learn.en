@@ -1,7 +1,7 @@
 ---
 title: Application integrations
 description: Learn about common configurations for integrating Experience Cloud applications. Discover how best-in-class enterprise products from Adobe can help you tackle your business challenges.
-exl-id: e6682cd9-7417-4615-8768-e0d4d86abf69
+exl-id: 3c0a75ec-2b4c-4984-bd42-0b5ddeb7c004
 ---
 # Integration Configurations for Experience Cloud Applications
 

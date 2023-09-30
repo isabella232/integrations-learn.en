@@ -12,7 +12,7 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11
 badgeIntegration: label="Integration" type="positive"
-exl-id: fd085c9a-ec81-4568-9f58-a2a577183ce3
+exl-id: ef50b6b3-1e2b-4fe9-98d5-555bc14ae8d6
 ---
 # Integrate [!DNL Analytics] with [!DNL Commerce]
 

@@ -1,7 +1,7 @@
 ---
 title: Data insights & activations
 description: Drive real-time personalization on any channel using online and offline data insights across your entire organization.
-exl-id: febff9b1-bcc1-4d7e-8e70-948388a5344c
+exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
 ---
 # Data insights & activations
 

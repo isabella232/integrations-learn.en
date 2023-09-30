@@ -10,7 +10,7 @@ kt: null
 thumbnail: analytics-experience-manager.png
 badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-31
-exl-id: 05aa2bfb-0a2b-458b-a715-17c1bbad0186
+exl-id: 32ea4ec1-bf34-4469-8e9e-b27f42a6933f
 ---
 # Integrate Experience Manager with [!DNL Analytics]
 

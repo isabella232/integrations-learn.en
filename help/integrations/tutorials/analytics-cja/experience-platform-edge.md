@@ -12,7 +12,7 @@ kt: null
 thumbnail: 13728
 last-substantial-update: 2023-04-11
 badgeIntegration: label="Integration" type="positive"
-exl-id: 16ee7f0f-61b0-4fa6-b19c-376dd909c193
+exl-id: e39dac5d-6ad5-47c8-94e8-070011233161
 ---
 # Integrate Adobe [!DNL Analytics] and Customer Journey [!DNL Analytics] with the Experience [!DNL Platform] Edge tutorial   
 
