@@ -1,5 +1,5 @@
 ---
-title: B2B marketing
+title: Application integrations for B2B marketing
 description: Coordinate lead management, ABM, and attribution at scale across channels based on unified customer profiles and data.
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
 ---

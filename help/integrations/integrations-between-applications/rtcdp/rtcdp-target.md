@@ -1,8 +1,8 @@
 ---
-title: How do I integrate Adobe Real-Time Customer Data [!DNL Platform] with Adobe [!DNL Target]?
-description: Learn how to integrate Adobe Real-Time Customer Data [!DNL Platform] with Adobe [!DNL Target].
-solution: Real-Time Customer Data [!DNL Platform], [!DNL Target]
-feature-set: Experience [!DNL Platform], [!DNL Target]
+title: Integrate Adobe Real-Time Customer Data Platform with Adobe [!DNL Target]
+description: Learn how to integrate Adobe Real-Time Customer Data Platform with Adobe [!DNL Target].
+solution: Real-Time Customer Data Platform, [!DNL Target]
+feature-set: Experience Platform, [!DNL Target]
 feature: Integrations, Audiences, Segments, Profiles
 topic: Integrations
 role: Leader, Architect, Admin, Developer, User
@@ -13,6 +13,6 @@ badgeIntegration: label="Integration" type="positive"
 last-substantial-update: 2023-07-25
 exl-id: 0e0935f2-394b-4d98-a1c0-1de265b48d54
 ---
-# Integrate Adobe Real-Time Customer Data [!DNL Platform] with Adobe [!DNL Target]
+# Integrate Adobe Real-Time Customer Data Platform with Adobe [!DNL Target]
 
 {{$include /help/_includes/integrations-between-applications/rtcdp-target.md}}

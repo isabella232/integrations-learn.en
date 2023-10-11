@@ -1,5 +1,5 @@
 ---
-title: Personalization at scale
+title: Application integrations for personalization at scale
 description: Make personalized experiences part of every moment.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
 ---

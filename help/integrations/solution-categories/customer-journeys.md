@@ -1,5 +1,5 @@
 ---
-title: Customer journey
+title: Application integrations for the customer journey
 description: Develop real-time customer profiles by pulling data from all sources to create personalized, cross-channel journeys.
 exl-id: eb653b89-db0f-433a-8641-bbeb32197096
 ---
