@@ -1,5 +1,5 @@
 ---
-title: How to ntegrate Adobe [!DNL Commerce] with AEM
+title: Integrate Adobe [!DNL Commerce] with AEM
 description: Integrate Adobe Experience Manager (AEM) with Adobe [!DNL Commerce] to build engaging shopping experiences.
 solution: Commerce, Experience Manager, Experience Manager Sites
 feature: Integrations

@@ -1,5 +1,5 @@
 ---
-title: Commerce
+title: Application integrations for commerce
 description: Build multi-channel commerce experiences on a single platform with our flexible, AI-powered commerce solution.
 exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
 ---

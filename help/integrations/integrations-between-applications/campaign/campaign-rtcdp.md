@@ -1,6 +1,6 @@
 ---
-title: Integrate [!DNL Campaign] with Real-Time Customer Data [!DNL Platform]
-description: Learn how to integrate [!DNL Campaign] with Real-Time Customer Data [!DNL Platform].
+title: Integrate [!DNL Campaign] with [!DNL Real-Time Customer Data Platform]
+description: Learn how to integrate [!DNL Campaign] with [!DNL Real-Time Customer Data Platform].
 solution: Campaign, Campaign v8, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations

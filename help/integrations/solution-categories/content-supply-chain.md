@@ -1,11 +1,12 @@
 ---
-title: Content supply chain
+title: Application integrations for content supply chain
 description: Plan, create, personalize, and publish content.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
 ---
 # Content supply chain
 
 Plan, create, personalize, and publish unforgettable content for every customer - at the speed of now.
+
 Meeting real-time customer expectations for personalized experiences requires more digital content than ever. With Adobe's creative workflow and asset management solutions, your teams can plan, create, and deliver personalized content at scale that supports the customer journey at every touchpoint.
 
 <table>
