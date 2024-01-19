@@ -50,7 +50,7 @@ For greater details on each phase and step of the onboarding process, follow the
 1. Create or update your XDM schema with [!DNL Commerce]-specific field groups. For more information on how to create a schema, please see the ["Create schemas"](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html) tutorial.  
     * You will need to select this schema from the options in the datastream step below. To create a schema, Look in the left column under **Data Management** and find **Schemas**. Now on the top right of the interface, click **Create schema**. Select XDM ExperienceEvent.
     * After creating a new schema, you will add the [!DNL Commerce] field groups. On the left side of the UI, find Field groups, and click **Add**
-        * In the search, you can filter by entering `ExperienceEvent [!DNL Commerce]`
+        * In the search, you can filter by entering `ExperienceEvent Commerce`
         * Select the **Adobe [!DNL Analytics] ExperienceEvent [!DNL Commerce]** by checking the box
         * Then click **Add field groups** on the top right to save and continue
 
@@ -84,4 +84,4 @@ For greater details on each phase and step of the onboarding process, follow the
     * [Using Tables, Visualizations, and Panels in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
     * [Visualization use cases](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
 
-    Additionally, there are free courses available on Experience League. See [!DNL Analytics] courses available [HERE](https://experienceleague.adobe.com/?lang=en&Solution=[!DNL Analytics]#courses).
+    Additionally, there are free courses available on Experience League. See [!DNL Analytics] courses available [HERE](https://experienceleague.adobe.com/?lang=en&Solution=Analytics#courses).
