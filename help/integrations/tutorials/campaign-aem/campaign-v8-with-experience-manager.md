@@ -1,7 +1,7 @@
 ---
 title: Integrate [!DNL Campaign] v8 with Experience Manager tutorial
 description: Learn how to connect Adobe [!DNL Campaign] with Adobe Experience Manager to manage email delivery templates, assets, and forms in Experience Manager.
-solution: Campaign, Campaign v8, Experience Manager
+solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Experience Manager
 feature: Integrations
 topic: Integrations
 role: Admin, Developer

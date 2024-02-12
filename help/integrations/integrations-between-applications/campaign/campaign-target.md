@@ -1,7 +1,7 @@
 ---
 title: Integrate [!DNL Campaign] with [!DNL Target]
 description: Learn how to integrate [!DNL Campaign] with [!DNL Target].
-solution: Campaign, Campaign v8, Campaign Classic v7, Target
+solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Campaign Classic v7, Target
 feature: Integrations
 topic: Integrations
 role: User
